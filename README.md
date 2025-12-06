@@ -21,8 +21,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ### Illustration
 
-<details>
-<summary><strong>1980s RPG manual illustration (variant)</strong></summary>
+#### 1980s RPG manual illustration (variant)
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400312484_kagqkd.jpg" width="400" alt="1980s RPG manual illustration (variant)">
 
@@ -33,10 +32,9 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=1dd5507f-cb99-4ed0-be50-b4cdfceb238e)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>HUD battle power overlay for any character image</strong></summary>
+#### HUD battle power overlay for any character image
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400156218_5jvfzw.jpg" width="400" alt="HUD battle power overlay for any character image">
 
@@ -49,10 +47,9 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=ce3aa971-aa83-4c25-86a5-243584492f9e)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>3D Chibi Stores</strong></summary>
+#### 3D Chibi Stores
 
 <img src="https://cdn.bestnanobananaprompt.com/e02ug9famlt_1764671167177.jpg" width="400" alt="3D Chibi Stores">
 
@@ -63,10 +60,9 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc093c5-4461-4f75-913e-05707e25b69b)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Monochrome tough-guy LINE stickers</strong></summary>
+#### Monochrome tough-guy LINE stickers
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400094846_toibiv.jpg" width="400" alt="Monochrome tough-guy LINE stickers">
 
@@ -77,10 +73,9 @@ Using the character in the attached image, create 16 black‑and‑white LINE st
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=fc9048ae-9804-45db-aea8-4698b24243ce)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Jakarta’s city history</strong></summary>
+#### Jakarta’s city history
 
 <img src="https://cdn.bestnanobananaprompt.com/b13hh9stryb_1764671294490.jpg" width="400" alt="Jakarta’s city history">
 
@@ -108,10 +103,9 @@ At the very bottom, centered, place a large ornate banner containing the main ti
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=f4989fb4-6794-42a0-bb80-e5dae8682ac2)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Naive doodle-style subject illustration</strong></summary>
+#### Naive doodle-style subject illustration
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400073707_nblom9.jpg" width="400" alt="Naive doodle-style subject illustration">
 
@@ -122,13 +116,12 @@ A doodle-style [subject], naive lines, humorous shape exaggeration
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=9cc4ac9d-8b83-4f8b-b6fc-dd9b761d2143)** | Likes: 0
 
-</details>
+---
 
 
 ### Comic Art
 
-<details>
-<summary><strong>Character Equipment</strong></summary>
+#### Character Equipment
 
 <img src="https://cdn.bestnanobananaprompt.com/eo4xfymkxr_1764673370812.jpg" width="400" alt="Character Equipment">
 
@@ -140,10 +133,9 @@ CHARACTER plus equipment BLUEPRINT: Geralt of Rivia
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=1ee9decf-ce90-485a-8c58-323aab564e1e)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>realistic photos of yourself next to a giant phone</strong></summary>
+#### realistic photos of yourself next to a giant phone
 
 <img src="https://cdn.bestnanobananaprompt.com/9cqo6iznyf5_1764673574984.jpg" width="400" alt="realistic photos of yourself next to a giant phone">
 
@@ -155,10 +147,9 @@ Create a high-end 8k studio photograph. The person from the reference is standin
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=6cf5e59f-6f84-4c8f-b3a6-73cc2dcd2570)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>3D Q</strong></summary>
+#### 3D Q
 
 <img src="https://cdn.bestnanobananaprompt.com/4y8v4icbvc9_1764730907411.jpg" width="400" alt="3D Q">
 
@@ -170,10 +161,9 @@ Create a high-end 8k studio photograph. The person from the reference is standin
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=200ed5d9-0bc9-4426-b38f-406fad5d4e09)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>stickers</strong></summary>
+#### stickers
 
 <img src="https://cdn.bestnanobananaprompt.com/0p2itrfnx37g_1764670952829.jpg" width="400" alt="stickers">
 
@@ -184,13 +174,12 @@ A collection of [theme] themed stickers, in a [art style] style, featuring [3-5 
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=344b44d1-9c11-4cf8-acde-7b0926cd16bc)** | Likes: 0
 
-</details>
+---
 
 
 ### Portrait
 
-<details>
-<summary><strong>3×3 photo grid</strong></summary>
+#### 3×3 photo grid
 
 <img src="https://cdn.bestnanobananaprompt.com/ulvw535p6zh_1764730307265.jpg" width="400" alt="3×3 photo grid">
 
@@ -224,10 +213,9 @@ Style Requirements:
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=36aef107-5c31-41bc-904b-43052130b384)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>character card</strong></summary>
+#### character card
 
 <img src="https://cdn.bestnanobananaprompt.com/84wt1s0bqe_1764730483873.jpg" width="400" alt="character card">
 
@@ -245,10 +233,9 @@ Style Requirements:
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=0007a13c-163d-488b-95da-d6f93cade7aa)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>knolling</strong></summary>
+#### knolling
 
 <img src="https://cdn.bestnanobananaprompt.com/z35elp4fmno_1764730764056.jpg" width="400" alt="knolling">
 
@@ -259,10 +246,9 @@ Present a clear, directly top-down photograph of [CITY] landmarks as 3D magnets,
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=261bb8f7-6002-4704-9bde-fc9a7082ae5d)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>A beautiful young woman</strong></summary>
+#### A beautiful young woman
 
 <img src="https://cdn.bestnanobananaprompt.com/h53swfp996l_1764810616002.jpg" width="400" alt="A beautiful young woman">
 
@@ -273,10 +259,9 @@ A beautiful young woman with long wavy brown hair, wearing a white ribbed crop t
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=33178971-ec4a-437d-b589-540a247f1bcc)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>film</strong></summary>
+#### film
 
 <img src="https://cdn.bestnanobananaprompt.com/2228vugw4b3_1764810706238.jpg" width="400" alt="film">
 
@@ -327,10 +312,9 @@ A beautiful young woman with long wavy brown hair, wearing a white ribbed crop t
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=66d6d1e5-8b62-4d89-ad4a-0d02bf64d2d1)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Character Expression Sheet</strong></summary>
+#### Character Expression Sheet
 
 <img src="https://cdn.bestnanobananaprompt.com/nqmglp4po8_1764810946618.jpg" width="400" alt="Character Expression Sheet">
 
@@ -348,13 +332,12 @@ I let you think about this, if you need help to build it, ask in comments.
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=02472fc1-2d3a-4f81-b172-e62ec650d5f8)** | Likes: 0
 
-</details>
+---
 
 
 ### Education
 
-<details>
-<summary><strong>Concept Visualization Infographic</strong></summary>
+#### Concept Visualization Infographic
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_concept_visualization_infograp_1764387257448.png" width="400" alt="Concept Visualization Infographic">
 
@@ -365,13 +348,12 @@ Create an educational infographic explaining [Photosynthesis] . Visual Elements 
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=1e89e847-3ef0-4d2b-9ca1-375269009bce)** | Likes: 0
 
-</details>
+---
 
 
 ### Cartoon
 
-<details>
-<summary><strong>Animated flashy text reveal sequence</strong></summary>
+#### Animated flashy text reveal sequence
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400157028_6moryv.jpg" width="400" alt="Animated flashy text reveal sequence">
 
@@ -382,13 +364,12 @@ The text appears with flashy effects and animation.
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=06db42f0-2a0b-43db-9422-056f93c88505)** | Likes: 0
 
-</details>
+---
 
 
 ### Infographic
 
-<details>
-<summary><strong>Diagram explaining how to walk beautifully</strong></summary>
+#### Diagram explaining how to walk beautifully
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400157685_e5uky2.jpg" width="400" alt="Diagram explaining how to walk beautifully">
 
@@ -399,13 +380,12 @@ Create a diagram showing how to walk beautifully.
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=1b8441f4-e918-40d4-8c18-21fcb7d9b517)** | Likes: 0
 
-</details>
+---
 
 
 ### Minimalist
 
-<details>
-<summary><strong>Clean infographic style constraints in Japanese</strong></summary>
+#### Clean infographic style constraints in Japanese
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400159216_53dmmy.jpg" width="400" alt="Clean infographic style constraints in Japanese">
 
@@ -416,13 +396,12 @@ Use extremely little text and focus on graphical expression. Suppress Japanese c
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=769f854d-eeb5-4994-a957-31be3356ff62)** | Likes: 0
 
-</details>
+---
 
 
 ### Comic
 
-<details>
-<summary><strong>4-panel Japanese gag manga about Nanami eating ramen</strong></summary>
+#### 4-panel Japanese gag manga about Nanami eating ramen
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400159991_cczeli.jpg" width="400" alt="4-panel Japanese gag manga about Nanami eating ramen">
 
@@ -433,13 +412,12 @@ Create a Japanese 4-panel gag manga showing this young Japanese woman, “Nanami
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=a8955562-e5ad-41ad-b283-a7620af7a9c1)** | Likes: 0
 
-</details>
+---
 
 
 ### Creative
 
-<details>
-<summary><strong>Star Wars Where's Waldo</strong></summary>
+#### Star Wars Where's Waldo
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_star_wars_where_s_waldo_1764387210912.jpg" width="400" alt="Star Wars Where's Waldo">
 
@@ -452,10 +430,9 @@ First one to pull this off. First take. Even Waldo is there.
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=41026434-413f-4e31-b6b8-31339df244be)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Aging Through the Years</strong></summary>
+#### Aging Through the Years
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_aging_through_the_years_1764387214780.png" width="400" alt="Aging Through the Years">
 
@@ -466,10 +443,9 @@ Generate the holiday photo of this person through the ages up to 80 years old
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=4ce5f545-9dce-44eb-a6c5-0a2e66e06654)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Recursive Visuals (Droste Effect)</strong></summary>
+#### Recursive Visuals (Droste Effect)
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_recursive_visuals__droste_effe_1764387218421.png" width="400" alt="Recursive Visuals (Droste Effect)">
 
@@ -480,10 +456,9 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=0eaa1243-5077-4e16-b236-c77425160202)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Coordinate Visualization</strong></summary>
+#### Coordinate Visualization
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_coordinate_visualization_1764387221369.png" width="400" alt="Coordinate Visualization">
 
@@ -494,10 +469,9 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=90a14d75-3a2d-4c8a-8a3f-7a97c65c48bd)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Conceptual Visualization</strong></summary>
+#### Conceptual Visualization
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_conceptual_visualization_1764387231034.png" width="400" alt="Conceptual Visualization">
 
@@ -508,10 +482,9 @@ How engineers see the San Francisco Bridge
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=2e01c2c1-530b-49ed-8d06-775ecbd5682e)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Literal Interpretation</strong></summary>
+#### Literal Interpretation
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_literal_interpretation_1764387235870.jpg" width="400" alt="Literal Interpretation">
 
@@ -522,10 +495,9 @@ rare.jpg
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=8c95dc64-af46-4ab9-8ebb-c4c869b0633f)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Multi-Subject Compositing</strong></summary>
+#### Multi-Subject Compositing
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_multi_subject_compositing_1764387242007.png" width="400" alt="Multi-Subject Compositing">
 
@@ -536,13 +508,12 @@ an office team photo, everyone making a silly face
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=a100f3af-bf8f-4607-abed-98010cf1dcc5)** | Likes: 0
 
-</details>
+---
 
 
 ### E-commerce
 
-<details>
-<summary><strong>Virtual Model Try-On</strong></summary>
+#### Virtual Model Try-On
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_virtual_model_try_on_1764387261025.png" width="400" alt="Virtual Model Try-On">
 
@@ -553,10 +524,9 @@ Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic fu
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=f6ef41f5-42b5-46b0-b049-01974542e0f7)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Professional Product Photography</strong></summary>
+#### Professional Product Photography
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_professional_product_photograp_1764387264087.png" width="400" alt="Professional Product Photography">
 
@@ -567,13 +537,12 @@ Identify the main product in the uploaded photo (automatically removing any hand
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=d1bc8c63-010c-43fd-9698-5fd69b6a0e89)** | Likes: 0
 
-</details>
+---
 
 
 ### Productivity
 
-<details>
-<summary><strong>Hand-drawn Flowchart to Corporate Charts</strong></summary>
+#### Hand-drawn Flowchart to Corporate Charts
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_hand_drawn_flowchart_to_corpor_1764387267195.png" width="400" alt="Hand-drawn Flowchart to Corporate Charts">
 
@@ -584,13 +553,12 @@ Convert this hand-drawn whiteboard sketch into a professional corporate flowchar
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=6fcd6356-3320-4f72-9541-6ce4ad0bf16a)** | Likes: 0
 
-</details>
+---
 
 
 ### UI/UX
 
-<details>
-<summary><strong>UI Wireframe to High-Fidelity Prototype</strong></summary>
+#### UI Wireframe to High-Fidelity Prototype
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_ui_wireframe_to_high_fidelity__1764387270280.png" width="400" alt="UI Wireframe to High-Fidelity Prototype">
 
@@ -601,13 +569,12 @@ Transform this rough wireframe sketch into a high-fidelity UI design mockups for
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=aed0cd88-8f37-428f-bff4-ffaa60369e70)** | Likes: 0
 
-</details>
+---
 
 
 ### Design
 
-<details>
-<summary><strong>Magazine Layout Generator</strong></summary>
+#### Magazine Layout Generator
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_magazine_layout_generator_1764387274573.png" width="400" alt="Magazine Layout Generator">
 
@@ -618,13 +585,12 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=b2696a8c-b51b-4d83-a552-0e59080efc8c)** | Likes: 0
 
-</details>
+---
 
 
 ### Photo Editing
 
-<details>
-<summary><strong>Smart Crowd Removal</strong></summary>
+#### Smart Crowd Removal
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_smart_crowd_removal_1764387282314.png" width="400" alt="Smart Crowd Removal">
 
@@ -635,13 +601,12 @@ Remove all the tourists/people in the background behind the main subject. Intell
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=44e6e2d5-1106-4758-aecf-15fee8b31f48)** | Likes: 0
 
-</details>
+---
 
 
 ### Marketing
 
-<details>
-<summary><strong>Commercial Promotional Poster</strong></summary>
+#### Commercial Promotional Poster
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_commercial_promotional_poster_1764387295485.png" width="400" alt="Commercial Promotional Poster">
 
@@ -655,10 +620,9 @@ Design a professional promotional poster for a [Coffee Shop]. Composition : A ci
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=1ddc7f85-9b20-44cc-b6e1-cb998dec8831)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>Viral Video Thumbnail</strong></summary>
+#### Viral Video Thumbnail
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_viral_video_thumbnail_1764387291342.png" width="400" alt="Viral Video Thumbnail">
 
@@ -669,13 +633,12 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=d1d45fd0-398c-43af-831d-ca6c3d6bfccf)** | Likes: 0
 
-</details>
+---
 
 
 ### Translation
 
-<details>
-<summary><strong>Menu Translation (Texture Preservation)</strong></summary>
+#### Menu Translation (Texture Preservation)
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_menu_translation__texture_pres_1764387299512.png" width="400" alt="Menu Translation (Texture Preservation)">
 
@@ -686,13 +649,12 @@ Translate the Chinese dish names on the wall menu into English for foreign touri
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=49c0e61c-06dd-46d0-b2d7-6dbd92a2690b)** | Likes: 0
 
-</details>
+---
 
 
 ### Nostalgic
 
-<details>
-<summary><strong>1990s Camera Style Portrait</strong></summary>
+#### 1990s Camera Style Portrait
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_1990s_camera_style_portrait_1764387201271.jpg" width="400" alt="1990s Camera Style Portrait">
 
@@ -703,10 +665,9 @@ Without changing her original face, create a portrait of a beautiful young woman
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=41356d88-1046-479a-a5d0-25e751e7f931)** | Likes: 0
 
-</details>
+---
 
-<details>
-<summary><strong>2000s Mirror Selfie</strong></summary>
+#### 2000s Mirror Selfie
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_2000s_mirror_selfie_1764387194711.jpg" width="400" alt="2000s Mirror Selfie">
 
@@ -772,13 +733,12 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=a5daa756-5ca8-413b-8cf7-581c9d967676)** | Likes: 0
 
-</details>
+---
 
 
 ### Artistic
 
-<details>
-<summary><strong>Whiteboard Marker Art</strong></summary>
+#### Whiteboard Marker Art
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_whiteboard_marker_art_1764387252784.png" width="400" alt="Whiteboard Marker Art">
 
@@ -789,13 +749,12 @@ Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a sli
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=375aa8c5-6f80-46ff-a647-042935ca906d)** | Likes: 0
 
-</details>
+---
 
 
 ### Photorealism
 
-<details>
-<summary><strong>Hyper-Realistic Crowd Composition</strong></summary>
+#### Hyper-Realistic Crowd Composition
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_hyper_realistic_crowd_composit_1764387190161.png" width="400" alt="Hyper-Realistic Crowd Composition">
 
@@ -810,13 +769,12 @@ THE ENVIRONMENT: A luxurious open-air rooftop terrace at sunset overlooking a mo
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=c65c7102-5d1b-41d2-9723-45a8bc53cff4)** | Likes: 0
 
-</details>
+---
 
 
 ### Fashion
 
-<details>
-<summary><strong>Victoria's Secret Style Photoshoot</strong></summary>
+#### Victoria's Secret Style Photoshoot
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_victoria_s_secret_style_photos_1764387198409.jpg" width="400" alt="Victoria's Secret Style Photoshoot">
 
@@ -829,13 +787,12 @@ The background is a darkly lit room, probably under the podium. The main emphasi
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=3f6b589f-f82f-4b5c-ac7e-433c805538a1)** | Likes: 0
 
-</details>
+---
 
 
 ### Professional
 
-<details>
-<summary><strong>One-Click Business Photo</strong></summary>
+#### One-Click Business Photo
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_one_click_business_photo_1764387205067.png" width="400" alt="One-Click Business Photo">
 
@@ -846,13 +803,12 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=079614bf-9e33-4ae8-bdb3-1a68b3172795)** | Likes: 0
 
-</details>
+---
 
 
 ### Cinematic
 
-<details>
-<summary><strong>Emotional Film Photography</strong></summary>
+#### Emotional Film Photography
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_emotional_film_photography_1764387207982.png" width="400" alt="Emotional Film Photography">
 
@@ -863,13 +819,12 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=95c579e8-4a6f-4abb-97d9-d66683e303c4)** | Likes: 0
 
-</details>
+---
 
 
 ### Interior Design
 
-<details>
-<summary><strong>Floor Plan to Interior Design</strong></summary>
+#### Floor Plan to Interior Design
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_floor_plan_to_interior_design_1764387286910.png" width="400" alt="Floor Plan to Interior Design">
 
@@ -884,13 +839,12 @@ Based on the uploaded 2D floor plan, generate a professional interior design pre
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=b3f4c770-e135-4840-b12a-16c20349236e)** | Likes: 0
 
-</details>
+---
 
 
 ### 3D Avatar
 
-<details>
-<summary><strong>3D Blind Box Style Avatar</strong></summary>
+#### 3D Blind Box Style Avatar
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_3d_blind_box_style_avatar_1764387306061.png" width="400" alt="3D Blind Box Style Avatar">
 
@@ -901,13 +855,12 @@ Transform the person in the uploaded photo into a cute 3D Pop Mart style blind b
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=56ffe3ba-dcb8-4753-a439-12971a3b8ead)** | Likes: 0
 
-</details>
+---
 
 
 ### Sticker
 
-<details>
-<summary><strong>Pet Meme Creator</strong></summary>
+#### Pet Meme Creator
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_pet_meme_creator_1764387309009.png" width="400" alt="Pet Meme Creator">
 
@@ -918,13 +871,12 @@ Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style :
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=1b8a6d01-4ec1-4a41-9a0b-c87f388e84cc)** | Likes: 0
 
-</details>
+---
 
 
 ### 3D Isometric
 
-<details>
-<summary><strong>Weather Card Generator</strong></summary>
+#### Weather Card Generator
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_weather_card_generator_1764387313598.jpg" width="400" alt="Weather Card Generator">
 
@@ -946,13 +898,12 @@ City name:【New York】
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=e898e0e6-7a6e-4530-bfbd-3646051e52b6)** | Likes: 0
 
-</details>
+---
 
 
 ### Photorealistic
 
-<details>
-<summary><strong>Paper summary as Chinese whiteboard photo</strong></summary>
+#### Paper summary as Chinese whiteboard photo
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400187101_mthkgr.jpg" width="400" alt="Paper summary as Chinese whiteboard photo">
 
@@ -963,13 +914,12 @@ Summarize this paper and turn it into a Chinese whiteboard-style photo.
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=8e7dcf73-b5e1-4c51-84b7-ac763d534852)** | Likes: 0
 
-</details>
+---
 
 
 ### Product Photography
 
-<details>
-<summary><strong>Product ad-style image for a raccoon figure</strong></summary>
+#### Product ad-style image for a raccoon figure
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400186296_okfl4k.jpg" width="400" alt="Product ad-style image for a raccoon figure">
 
@@ -980,7 +930,7 @@ An advertisement for the figure in this image. The text must be in Japanese. The
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=aaa3cbc5-8b9b-425b-a100-ed6cee1ab4d6)** | Likes: 0
 
-</details>
+---
 
 
 <!-- GALLERY_END -->

@@ -100,8 +100,7 @@ function generatePromptsList(items) {
 
     for (const item of styleItems.slice(0, 10)) {
       const detailLink = `${WEBSITE_URL}/gallery?id=${item.id}`;
-      content += `<details>\n`;
-      content += `<summary><strong>${escapeMarkdown(item.name || 'Untitled')}</strong></summary>\n\n`;
+      content += `#### ${escapeMarkdown(item.name || 'Untitled')}\n\n`;
 
       if (item.image_url) {
         content += `<img src="${item.image_url}" width="400" alt="${escapeMarkdown(item.name || 'Preview')}">\n\n`;
@@ -110,7 +109,7 @@ function generatePromptsList(items) {
       content += `**Prompt:**\n\`\`\`\n${item.prompt || ''}\n\`\`\`\n\n`;
       content += `**[View on Website](${detailLink})** | `;
       content += `Likes: ${item.likes_count || 0}\n\n`;
-      content += `</details>\n\n`;
+      content += `---\n\n`;
     }
   }
 
