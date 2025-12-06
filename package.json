@@ -1,0 +1,27 @@
+{
+  "name": "bestnanobananaprompt-github",
+  "version": "1.0.0",
+  "description": "GitHub Pages for Best Nano Banana Prompt - AI Image Generation Prompts",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-readme.mjs"
+  },
+  "keywords": [
+    "ai",
+    "prompts",
+    "gpt-4o",
+    "gemini",
+    "image-generation",
+    "midjourney"
+  ],
+  "author": "Best Nano Banana Prompt",
+  "license": "MIT",
+  "homepage": "https://bestnanobananaprompt.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fionalee1412/bestnanobananaprompt-github.git"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
