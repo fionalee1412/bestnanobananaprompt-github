@@ -21,6 +21,19 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ### Portrait
 
+#### Artitecture
+
+<img src="https://cdn.bestnanobananaprompt.com/bjo1ndn7ars_1766496041065.png" width="400" alt="Artitecture">
+
+**Prompt:**
+```
+Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d798f166-1aa4-4c7c-870f-990cf3775977)** | Likes: 7
+
+---
+
 #### Surrealism with Christmas
 
 <img src="https://cdn.bestnanobananaprompt.com/0g8ppzp0nyhu_1766326179789.jpg" width="400" alt="Surrealism with Christmas">
@@ -39,6 +52,19 @@ Technical: Ray tracing reflections on the glass, refraction effects, crystal cle
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=ea83b511-6b1a-45d7-aa99-26ca7c2c6a03)** | Likes: 6
+
+---
+
+#### Cinematic Portrait Photography
+
+<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
+
+**Prompt:**
+```
+cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 6
 
 ---
 
@@ -80,32 +106,6 @@ Technical: Ray tracing reflections on the glass, refraction effects, crystal cle
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=c42bd9dc-5110-4676-9fad-a136f6530035)** | Likes: 6
-
----
-
-#### Cinematic Portrait Photography
-
-<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
-
-**Prompt:**
-```
-cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 6
-
----
-
-#### Artitecture
-
-<img src="https://cdn.bestnanobananaprompt.com/bjo1ndn7ars_1766496041065.png" width="400" alt="Artitecture">
-
-**Prompt:**
-```
-Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d798f166-1aa4-4c7c-870f-990cf3775977)** | Likes: 6
 
 ---
 
@@ -155,6 +155,19 @@ A young woman with long brown curls, wearing a red velvet dress, stands inside a
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=8796e9d4-99c5-4a19-8729-02707557d5e5)** | Likes: 5
+
+---
+
+#### Create A Beautiful
+
+<img src="https://cdn.bestnanobananaprompt.com/uph75lvdtc_1765767270757.jpg" width="400" alt="Create A Beautiful">
+
+**Prompt:**
+```
+"Create a beautiful, photo book style magazine cover that fully utilizes the 9:16 aspect ratio. Place the attached person at the precise coordinates of [latitude/longitude coordinate], seamlessly blending them into the scene as if they are sightseeing. Approach this task with the understanding that this is a critical page that will significantly influence visitor numbers. NEGATIVE: coordinate texts"
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=7fbf82bd-e100-4333-a792-0dee2ce3c6f2)** | Likes: 5
 
 ---
 
@@ -258,19 +271,6 @@ A young woman with long brown curls, wearing a red velvet dress, stands inside a
 
 ---
 
-#### Create A Beautiful
-
-<img src="https://cdn.bestnanobananaprompt.com/uph75lvdtc_1765767270757.jpg" width="400" alt="Create A Beautiful">
-
-**Prompt:**
-```
-"Create a beautiful, photo book style magazine cover that fully utilizes the 9:16 aspect ratio. Place the attached person at the precise coordinates of [latitude/longitude coordinate], seamlessly blending them into the scene as if they are sightseeing. Approach this task with the understanding that this is a critical page that will significantly influence visitor numbers. NEGATIVE: coordinate texts"
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=7fbf82bd-e100-4333-a792-0dee2ce3c6f2)** | Likes: 5
-
----
-
 #### Untitled Prompt
 
 <img src="https://cdn.bestnanobananaprompt.com/kgun2ittowh_1765725271259.jpg" width="400" alt="Untitled Prompt">
@@ -359,16 +359,21 @@ A young woman with long brown curls, wearing a red velvet dress, stands inside a
 
 ---
 
-#### 33 Grid Of The Same Girl Wearing A Pink Dress
+#### Nd Dont Change Their Faces
 
-<img src="https://cdn.bestnanobananaprompt.com/5nbmocsk92o_1766245621924.png" width="400" alt="33 Grid Of The Same Girl Wearing A Pink Dress">
+<img src="https://cdn.bestnanobananaprompt.com/g5aegis0fap_1765725794041.jpg" width="400" alt="Nd Dont Change Their Faces">
 
 **Prompt:**
 ```
-Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
+Create and don't change their faces! 
+"A high-angle close-up selfie shot using direct flash photography with a vintage film aesthetic. In the immediate foreground on the left, a handsome young man looks softly into the camera. He wears a beige sweater. Behind him, a beautiful young woman with long dark hair leans her chin on his shoulder, gazing alluringly at the lens. She has fair skin, soft 'douyin' style makeup and reddish lips, wearing a brown tweed jacket. Several gold bangles (Cartier style) are visible on the wrist in the foreground. The lighting is warm and high-contrast, typical of 90s disposable camera style, with visible film grain and a romantic, intimate mood."
+Lighting: Direct flash, harsh flash, warm lighting.
+Style: Vintage film, 90s aesthetic, disposable camera, Polaroid style.
+Subject Details: Messy wavy hair, pearl necklace on man, dangling earring, tweed fabric, rosy cheeks.
+Angle: Selfie angle, high angle, extreme close-up.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a37ab9b0-3451-4057-a835-e8f9c66232f8)** | Likes: 4
 
 ---
 
@@ -467,6 +472,251 @@ When the user provides an image or description:
 
 ---
 
+#### interesting image effects
+
+<img src="https://cdn.bestnanobananaprompt.com/bqout7hd9n5_1766326061646.jpg" width="400" alt="interesting image effects">
+
+**Prompt:**
+```
+{
+
+"subject": {
+
+"description": "A hyper-realistic optical illusion photograph. A young Caucasian woman appears to be stepping out of a smartphone screen held in a hand. The screen displays the camera interface, capturing her boots, while her real upper body extends out of the phone into reality.",
+
+"mirror_rules": "Ensure the phone screen clearly shows the iOS Camera UI (shutter button, mode text). Handwritten annotations must be legible and not mirrored.",
+
+"age": "20s",
+
+"expression": {
+
+"eyes": {
+
+"look": "Alluring and playful",
+
+"energy": "Confident, direct",
+
+"direction": "Looking at the viewer"
+
+},
+
+"mouth": {
+
+"position": "Blowing a kiss or pouting",
+
+"energy": "Chic and charming"
+
+},
+
+"overall": "Lifelike, engaging interaction"
+
+},
+
+"face": {
+
+"preserve_original": "false",
+
+"makeup": "Natural glam, matte foundation, defined European features",
+
+"features": "High nose bridge, double eyelids, defined jawline"
+
+},
+
+"hair": {
+
+"color": "Dark brown",
+
+"style": "Long, loose waves, voluminous",
+
+"effect": "Realistic shine, wind-blown effect"
+
+},
+
+"body": {
+
+"frame": "Petite but proportionally realistic",
+
+"waist": "Defined",
+
+"chest": "Covered by turtleneck",
+
+"legs": "Visible INSIDE the phone screen interface wearing boots",
+
+"skin": {
+
+"visible_areas": "Face, hands",
+
+"tone": "Fair Caucasian skin",
+
+"texture": "Ultra-realistic skin texture, visible pores, natural imperfections",
+
+"lighting_effect": "Soft daylight"
+
+}
+
+},
+
+"pose": {
+
+"position": "Torso and head emerging vertically from the phone, legs displayed on the screen",
+
+"base": "Dynamic standing pose",
+
+"overall": "充满活力的随机姿势，让人感觉生命力满满"
+
+},
+
+"clothing": {
+
+"top": {
+
+"effect": "精致的穿搭，High-quality textile photography"
+
+},
+
+"bottom": {
+
+"type": "Mini Skirt and Leather Boots",
+
+"color": "Dark Grey (skirt), Brown (boots)",
+
+"details": "Boots visible on the screen beneath the UI elements"
+
+}
+
+}
+
+},
+
+"accessories": {
+
+"jewelry": "Gold rings on the photographer's hand (foreground)",
+
+"device": "Smartphone with burgundy case. The screen is ACTIVE and DETAILED: it displays the IOS Camera App Interface (white circular shutter button at bottom, 'PHOTO' text).",
+
+"prop": "On the phone screen: White handwritten-style text overlays with arrows pointing to the outfit elements (e.g., text 'suede jacket' with arrow, 'leather boots' with arrow)."
+
+},
+
+"photography": {
+
+"camera_style": "DSLR photography, Macro lens for phone details",
+
+"angle": "POV, High angle looking down at hand",
+
+"shot_type": "Composite photography",
+
+"aspect_ratio": "3:4",
+
+"texture": "Sharp screen pixels, fingerprint smudges on screen, realistic fabric texture",
+
+"lighting": "Overcast soft natural light",
+
+"depth_of_field": "Background bench blurred (Bokeh), Phone screen UI and subject sharp"
+
+},
+
+"background": {
+
+"setting": "Parisian Park in Autumn",
+
+"wall_color": "Green bench, grey ground",
+
+"elements": [
+
+"Green park bench with text 'Le silence'",
+
+"Autumn leaves"
+
+],
+
+"atmosphere": "Cinematic, realistic",
+
+"lighting": "Natural ambient light"
+
+},
+
+"the_vibe": {
+
+"energy": "Sophisticated, viral social media content",
+
+"mood": "Fashion forward",
+
+"aesthetic": "OOTD breakdown, creative edit",
+
+"authenticity": "Photorealistic texture, not CGI",
+
+"intimacy": "POV",
+
+"story": "Fashion styling breakdown",
+
+"caption_energy": "Styling brown suede & leather"
+
+},
+
+"constraints": {
+
+"must_keep": [
+
+"Caucasian ethnicity",
+
+"Photorealistic skin",
+
+"Camera UI elements on screen (shutter button)",
+
+"Handwritten text annotations on screen",
+
+"Pop-out effect"
+
+],
+
+"avoid": [
+
+"Transparent phone screen",
+
+"Blank screen",
+
+"3D render style",
+
+"Cartoon",
+
+"Plastic skin"
+
+]
+
+},
+
+"negative_prompt": [
+
+"transparent screen",
+
+"blank screen",
+
+"glass phone",
+
+"3d",
+
+"render",
+
+"cartoon",
+
+"anime",
+
+"plastic",
+
+"drawing",
+
+"illustration"
+
+]
+
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8418c54a-967a-4a4a-aaca-470f868413c4)** | Likes: 3
+
+---
+
 #### a Gestural Impasto Portrait
 
 <img src="https://cdn.bestnanobananaprompt.com/nsqddj7g9l_1766559973491.jpg" width="400" alt="a Gestural Impasto Portrait">
@@ -477,49 +727,6 @@ A Gestural Impasto Revelation of [SUBJECT], with thick, textured layers of paint
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=6db2da04-9828-426f-802d-1262da030280)** | Likes: 3
-
----
-
-
-### Comic Art
-
-#### Caricatures --sref
-
-<img src="https://cdn.bestnanobananaprompt.com/g0dh4ifel76_1764811434966.jpg" width="400" alt="Caricatures --sref">
-
-**Prompt:**
-```
-A 2x2 grid featuring four distinct, expressive digital caricatures of male public figures. The art style is a vibrant fusion of bold line art, dynamic brushstrokes, and digital painting with a hand-drawn, inky sketch aesthetic, complete with subtle watercolor washes and ink splatters. Exaggerated features and lively expressions dominate, rendered with a rich, slightly muted color palette including earthy tones and cool grays. Soft, diffused studio lighting creates clear forms and gentle shadows against a minimalist, textured background. The composition is a bust shot for each, conveying a humorous and energetic mood in high-detail, professional 4K illustration quality.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a4d4eb2b-3ba9-4b68-a3f4-601319d10982)** | Likes: 5
-
----
-
-#### Mio-gpt image 1.5
-
-<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
- is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
-
----
-
-#### Using This Character
-
-<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 3
 
 ---
 
@@ -644,19 +851,6 @@ Generate a promotional poster for the skin care essential oil in Figure 1，AR 2
 
 ---
 
-#### food menu
-
-<img src="https://cdn.bestnanobananaprompt.com/vn8kroht018_1766110375597.jpg" width="400" alt="food menu">
-
-**Prompt:**
-```
-一张高角度商业美食摄影照片，展示了[天妇罗]盛放在极简风格的透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称、价格和搭配说明。右上角有一个极简的小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填满整个 16:9 画面，采用大师级平面设计，配有精致的中式排版、极其克制的植物图案和精致优雅的光线，营造出一种空灵、奢华、精致的氛围，具有最大的精致感和考究感
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=58d05cdc-deae-4be4-8fa9-17321714fd9d)** | Likes: 3
-
----
-
 #### Product Interaction Photography
 
 <img src="https://cdn.bestnanobananaprompt.com/5xve5csz3vt_1766110203260.jpg" width="400" alt="Product Interaction Photography">
@@ -667,6 +861,19 @@ A modern sneaker mid-stride at center of neon coral pigment explosion, particles
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=9cac2fe8-cf32-450e-8f5e-8056b6bb69ad)** | Likes: 3
+
+---
+
+#### food menu
+
+<img src="https://cdn.bestnanobananaprompt.com/vn8kroht018_1766110375597.jpg" width="400" alt="food menu">
+
+**Prompt:**
+```
+一张高角度商业美食摄影照片，展示了[天妇罗]盛放在极简风格的透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称、价格和搭配说明。右上角有一个极简的小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填满整个 16:9 画面，采用大师级平面设计，配有精致的中式排版、极其克制的植物图案和精致优雅的光线，营造出一种空灵、奢华、精致的氛围，具有最大的精致感和考究感
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=58d05cdc-deae-4be4-8fa9-17321714fd9d)** | Likes: 3
 
 ---
 
@@ -701,6 +908,19 @@ Styling: Minimalist chic outfit (black turtleneck, jeans). A long red scarf flow
 
 ---
 
+#### Cinematic 33 Grid Presenting Multiple Camera Angles
+
+<img src="https://cdn.bestnanobananaprompt.com/8k5lonxw2g_1765725593339.jpg" width="400" alt="Cinematic 33 Grid Presenting Multiple Camera Angles">
+
+**Prompt:**
+```
+A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=30b7166b-8add-4000-b24b-7e97edd7cd46)** | Likes: 3
+
+---
+
 #### Golden hour portrait of a woman in black lace dress
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400411169_6mokcl.jpg" width="400" alt="Golden hour portrait of a woman in black lace dress">
@@ -714,16 +934,46 @@ Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, u
 
 ---
 
-#### Cinematic 33 Grid Presenting Multiple Camera Angles
 
-<img src="https://cdn.bestnanobananaprompt.com/8k5lonxw2g_1765725593339.jpg" width="400" alt="Cinematic 33 Grid Presenting Multiple Camera Angles">
+### Comic Art
+
+#### Caricatures --sref
+
+<img src="https://cdn.bestnanobananaprompt.com/g0dh4ifel76_1764811434966.jpg" width="400" alt="Caricatures --sref">
 
 **Prompt:**
 ```
-A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.
+A 2x2 grid featuring four distinct, expressive digital caricatures of male public figures. The art style is a vibrant fusion of bold line art, dynamic brushstrokes, and digital painting with a hand-drawn, inky sketch aesthetic, complete with subtle watercolor washes and ink splatters. Exaggerated features and lively expressions dominate, rendered with a rich, slightly muted color palette including earthy tones and cool grays. Soft, diffused studio lighting creates clear forms and gentle shadows against a minimalist, textured background. The composition is a bust shot for each, conveying a humorous and energetic mood in high-detail, professional 4K illustration quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=30b7166b-8add-4000-b24b-7e97edd7cd46)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a4d4eb2b-3ba9-4b68-a3f4-601319d10982)** | Likes: 5
+
+---
+
+#### Mio-gpt image 1.5
+
+<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
+ is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
+
+---
+
+#### Using This Character
+
+<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 3
 
 ---
 
@@ -757,64 +1007,6 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=d8bf1922-66db-4a61-aba2-e2a99ac52222)** | Likes: 4
-
----
-
-
-### Creative
-
-#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
-
-<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
-
-**Prompt:**
-```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 4
-
----
-
-#### Literal Interpretation
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_literal_interpretation_1764387235870.jpg" width="400" alt="Literal Interpretation">
-
-**Prompt:**
-```
-rare.jpg
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8c95dc64-af46-4ab9-8ebb-c4c869b0633f)** | Likes: 3
-
----
-
-#### Hyper-realistic 3d Isometric Masterpiece
-
-<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
-
-**Prompt:**
-```
-Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 3
-
----
-
-
-### 3D Avatar
-
-#### 3D Blind Box Style Avatar
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_3d_blind_box_style_avatar_1764387306061.png" width="400" alt="3D Blind Box Style Avatar">
-
-**Prompt:**
-```
-Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=56ffe3ba-dcb8-4753-a439-12971a3b8ead)** | Likes: 4
 
 ---
 
@@ -868,6 +1060,64 @@ Transform the person in the uploaded photo into a cute 3D Pop Mart style blind b
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=5d344ede-6d63-4fa8-bf7e-b6d59331ef82)** | Likes: 4
+
+---
+
+
+### 3D Avatar
+
+#### 3D Blind Box Style Avatar
+
+<img src="https://cdn.bestnanobananaprompt.com/awesome_3d_blind_box_style_avatar_1764387306061.png" width="400" alt="3D Blind Box Style Avatar">
+
+**Prompt:**
+```
+Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=56ffe3ba-dcb8-4753-a439-12971a3b8ead)** | Likes: 4
+
+---
+
+
+### Creative
+
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+
+**Prompt:**
+```
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 4
+
+---
+
+#### Literal Interpretation
+
+<img src="https://cdn.bestnanobananaprompt.com/awesome_literal_interpretation_1764387235870.jpg" width="400" alt="Literal Interpretation">
+
+**Prompt:**
+```
+rare.jpg
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8c95dc64-af46-4ab9-8ebb-c4c869b0633f)** | Likes: 3
+
+---
+
+#### Hyper-realistic 3d Isometric Masterpiece
+
+<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
+
+**Prompt:**
+```
+Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 3
 
 ---
 
@@ -945,37 +1195,6 @@ The background is a darkly lit room, probably under the podium. The main emphasi
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=3f6b589f-f82f-4b5c-ac7e-433c805538a1)** | Likes: 3
-
----
-
-
-### Other
-
-#### 地标信息图
-
-<img src="https://cdn.bestnanobananaprompt.com/gpt4o_433_1764401152042.jpg" width="400" alt="地标信息图">
-
-**Prompt:**
-```
-Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9fcd2ecc-425e-4ef9-bfb9-c2c4230c4790)** | Likes: 2
-
----
-
-#### 身穿一件宽松的白色衬衫肖像照
-
-<img src="https://cdn.bestnanobananaprompt.com/gpt4o_373_1764401240082.jpg" width="400" alt="身穿一件宽松的白色衬衫肖像照">
-
-**Prompt:**
-```
-Create a black and white high-fashion editorial portrait of me, keeping my real face exactly as in the reference photo (no edits, same features, no retouching). I am wearing a loose white blouse. My pose is bold and expressive, with one arm raised to hold my hair up, partially covering my face. My gaze is intense and directed at the camera, creating a strong and enigmatic aura. The background is a plain minimalist wall with sharp natural daylight casting defined shadows, adding depth and contrast.
-Lighting is harsh and high-contrast, highlighting my facial contours, sharp cheekbones, and the texture of the hair and fabric. The style should feel raw, dramatic, and artistic.
-The overall image is high-fashion editorial in monochrome, cinematic, and striking.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d397bd48-9bfa-4073-b103-d62d12d64e62)** | Likes: 2
 
 ---
 
