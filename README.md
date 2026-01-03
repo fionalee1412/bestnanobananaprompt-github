@@ -218,60 +218,6 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
-#### Artitecture
-
-<img src="https://cdn.bestnanobananaprompt.com/bjo1ndn7ars_1766496041065.png" width="400" alt="Artitecture">
-
-**Prompt:**
-```
-Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d798f166-1aa4-4c7c-870f-990cf3775977)** | Likes: 7
-
----
-
-#### Young woman
-
-<img src="https://cdn.bestnanobananaprompt.com/9l1hcpgn3t6_1765013439828.jpg" width="400" alt="Young woman">
-
-**Prompt:**
-```
-"prompt_description": {
-    "subject": {
-      "appearance": "Young woman with fair skin and long, straight black hair. 'Cute' makeup style with pink blush on cheeks and glossy lips.",
-      "outfit": "Classic black bunny girl costume. Black satin strapless bodysuit (leotard) with a sweetheart neckline. Black sheer pantyhose/tights. Accessories include large black lace bunny ears headband, a white collar with a black bowtie, and white french cuffs on the wrists. A beaded bracelet on the right wrist.",
-      "environment": "Indoor domestic setting. Standing in front of a light-colored wooden door with a silver handle. A white wall is visible to the left with a partial view of a yellow poster/artwork."
-    },
-    "technical_style": "Candid snapshot aesthetic, direct flash photography, influencer social media style, high key brightness."
-  },
-  "pose_specs": {
-    "body_position": "Standing facing forward, cut off at the thighs (medium shot).",
-    "arms": "Both arms raised, elbows bent out to the sides. Hands positioned near the face with index fingers poking into the cheeks.",
-    "head": "Facing directly forward. Eyes closed or looking down in a playful manner. Lips pursed in a 'kissy' or whistling expression.",
-    "expression": "Playful, cute, 'aegyo' pose."
-  },
-  "camera_settings": {
-    "viewpoint": "Eye-level.",
-    "focal_length": "28mm to 35mm (Smartphone wide lens style).",
-    "aperture": "f/1.8 to f/2.8",
-    "shutter_speed": "1/60s (Flash synced).",
-    "iso": "400",
-    "composition": "Centered composition, framing from mid-thigh to above the bunny ears."
-  },
-  "lighting_setup": {
-    "type": "On-camera direct flash.",
-    "qualities": "Hard, frontal light source close to the lens axis.",
-    "shadows": "Distinct, hard drop shadow visible on the wooden door directly behind the subject, indicating the flash is mounted on or very near the camera.",
-    "color_temperature": "Flash white balance (approx 5500K), mixed with slightly warmer indoor ambient tones."
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c42bd9dc-5110-4676-9fad-a136f6530035)** | Likes: 7
-
----
-
 #### Night-Out Instagram Story
 
 <img src="https://cdn.bestnanobananaprompt.com/p3px089tl5_1766560124933.png" width="400" alt="Night-Out Instagram Story">
@@ -429,7 +375,216 @@ Grainy 35mm film photo from 1975. A construction worker is installing a large gl
 }}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f561ec32-b462-4b19-ad7d-b3fdd4518e66)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f561ec32-b462-4b19-ad7d-b3fdd4518e66)** | Likes: 8
+
+---
+
+#### Artitecture
+
+<img src="https://cdn.bestnanobananaprompt.com/bjo1ndn7ars_1766496041065.png" width="400" alt="Artitecture">
+
+**Prompt:**
+```
+Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d798f166-1aa4-4c7c-870f-990cf3775977)** | Likes: 7
+
+---
+
+#### Young woman
+
+<img src="https://cdn.bestnanobananaprompt.com/9l1hcpgn3t6_1765013439828.jpg" width="400" alt="Young woman">
+
+**Prompt:**
+```
+"prompt_description": {
+    "subject": {
+      "appearance": "Young woman with fair skin and long, straight black hair. 'Cute' makeup style with pink blush on cheeks and glossy lips.",
+      "outfit": "Classic black bunny girl costume. Black satin strapless bodysuit (leotard) with a sweetheart neckline. Black sheer pantyhose/tights. Accessories include large black lace bunny ears headband, a white collar with a black bowtie, and white french cuffs on the wrists. A beaded bracelet on the right wrist.",
+      "environment": "Indoor domestic setting. Standing in front of a light-colored wooden door with a silver handle. A white wall is visible to the left with a partial view of a yellow poster/artwork."
+    },
+    "technical_style": "Candid snapshot aesthetic, direct flash photography, influencer social media style, high key brightness."
+  },
+  "pose_specs": {
+    "body_position": "Standing facing forward, cut off at the thighs (medium shot).",
+    "arms": "Both arms raised, elbows bent out to the sides. Hands positioned near the face with index fingers poking into the cheeks.",
+    "head": "Facing directly forward. Eyes closed or looking down in a playful manner. Lips pursed in a 'kissy' or whistling expression.",
+    "expression": "Playful, cute, 'aegyo' pose."
+  },
+  "camera_settings": {
+    "viewpoint": "Eye-level.",
+    "focal_length": "28mm to 35mm (Smartphone wide lens style).",
+    "aperture": "f/1.8 to f/2.8",
+    "shutter_speed": "1/60s (Flash synced).",
+    "iso": "400",
+    "composition": "Centered composition, framing from mid-thigh to above the bunny ears."
+  },
+  "lighting_setup": {
+    "type": "On-camera direct flash.",
+    "qualities": "Hard, frontal light source close to the lens axis.",
+    "shadows": "Distinct, hard drop shadow visible on the wooden door directly behind the subject, indicating the flash is mounted on or very near the camera.",
+    "color_temperature": "Flash white balance (approx 5500K), mixed with slightly warmer indoor ambient tones."
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c42bd9dc-5110-4676-9fad-a136f6530035)** | Likes: 7
+
+---
+
+#### Surrealism with Christmas
+
+<img src="https://cdn.bestnanobananaprompt.com/0g8ppzp0nyhu_1766326179789.jpg" width="400" alt="Surrealism with Christmas">
+
+**Prompt:**
+```
+(Surrealism, fantasy art, macro photography style). A magical composition where the specific character is captured inside a giant, life-sized glass snow globe. [CRITICAL: Keep the face identical to the source image, maintain consistent facial features within the glass distortion].
+
+Inside the Globe: The character is wearing a white faux fur winter coat and a red Santa hat, catching falling snowflakes with her hands. The environment inside includes miniature snow-covered pine trees decorated with colorful Christmas lights twinkling in red, green, blue, and gold. A tiny wooden cabin sits among the trees. Swirling magical glitter and snow dust fill the air inside the sphere.
+
+Outside the Globe: The background is a blurry, cozy living room with a fireplace, emphasizing that the character is inside the ornament.
+
+Lighting: The snow globe is glowing from within, illuminated by the warm colorful glow of the Christmas tree lights mixing with cool magical blue and white light on the falling snow. The character's face is beautifully lit by this magical mixed lighting. External warm light reflects off the curved glass surface, creating rainbow prismatic effects.
+
+Technical: Ray tracing reflections on the glass, refraction effects, crystal clear focus on the character, magical atmosphere, ethereal and dreamy aesthetic, 8k resolution, intricate details of the snowflakes and Christmas lights bokeh.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=ea83b511-6b1a-45d7-aa99-26ca7c2c6a03)** | Likes: 6
+
+---
+
+#### a Na’vi caught by iPhone flash
+
+<img src="https://cdn.bestnanobananaprompt.com/a3g7htu3k34_1766889478863.jpg" width="400" alt="a Na’vi caught by iPhone flash">
+
+**Prompt:**
+```
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "camera": "iPhone (normal photo mode)",
+    "lens": "24mm wide",
+    "quality": "photorealistic",
+    "resolution": "high",
+    "style": "raw iphone flash photo, casual snapshot, NOT portrait, NOT cinematic"
+  },
+
+  "scene": {
+    "location": "public beach at night",
+    "environment": [
+      "dark sand",
+      "black ocean behind",
+      "faint silhouettes of people far in the background",
+      "night sky with no visible stars"
+    ],
+    "time": "night",
+    "atmosphere": "dark, humid, real beach night"
+  },
+
+  "lighting": {
+    "type": "iphone flash",
+    "source": "direct on-camera flash",
+    "effect": [
+      "harsh frontal flash",
+      "bright subject, dark background",
+      "strong shadow falloff",
+      "slight overexposure on wet skin"
+    ]
+  },
+
+  "camera_perspective": {
+    "pov": "another person casually taking the photo",
+    "angle": "eye-level",
+    "framing": "upper thighs to head",
+    "distance": "about 3 meters",
+    "imperfections": [
+      "iphone noise",
+      "minor blur",
+      "imperfect centering",
+      "snapshot feel"
+    ]
+  },
+
+  "subject": {
+    "species": "Na'vi (real-world evolved humanoid)",
+    "gender": "female",
+    "age": "clearly adult",
+
+    "face": {
+      "structure": "Na'vi facial proportions",
+      "skin": {
+        "color": "muted realistic blue",
+        "texture": "real skin texture, visible pores",
+        "paint": "vertical red tribal paint line from forehead down face"
+      },
+      "eyes": {
+        "color": "golden yellow",
+        "expression": "direct eye contact"
+      },
+      "mouth": {
+        "expression": "kissy lips, blowing a soft kiss"
+      }
+    },
+
+    "hair": {
+      "style": "long thin braids",
+      "color": "dark",
+      "state": "slightly messy, beach-worn"
+    },
+
+    "body": {
+      "type": "slim-curvy",
+      "waist": "defined",
+      "hips": "soft feminine curves",
+      "chest": "naturally full"
+    },
+
+    "pose": {
+      "description": "playful standing pose with both arms raised, elbows bent outward, fists held close to the cheeks",
+      "shoulders": "slightly lifted",
+      "torso": "subtle twist emphasizing waist",
+      "hips": "shifted slightly to one side",
+      "legs": "one leg bearing weight, the other relaxed",
+      "energy": "playful, teasing, casual"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "black triangle bikini top",
+        "state": "wet",
+        "fabric": "slightly sheer, semi-transparent when wet",
+        "effect": "subtle natural outline visible through fabric, non-graphic"
+      },
+      "bottom": {
+        "type": "black bikini bottom",
+        "state": "wet",
+        "fit": "normal beach fit"
+      }
+    },
+
+    "details": {
+      "tail": "long Na'vi tail clearly visible behind legs, illuminated by flash",
+      "skin_state": "wet skin reflecting harsh flash light",
+      "overall_vibe": "looks like a random iphone flash photo taken at night on the beach"
+    }
+  },
+
+  "negative_prompt": [
+    "portrait mode",
+    "cinematic lighting",
+    "cgi",
+    "3d render",
+    "fantasy illustration",
+    "studio lighting",
+    "over-processed",
+    "anime",
+    "plastic skin"
+  ]
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=7a40e0d8-a2cf-437e-94e6-062144146172)** | Likes: 6
 
 ---
 
@@ -469,27 +624,6 @@ Style Requirements:
 
 ---
 
-#### Surrealism with Christmas
-
-<img src="https://cdn.bestnanobananaprompt.com/0g8ppzp0nyhu_1766326179789.jpg" width="400" alt="Surrealism with Christmas">
-
-**Prompt:**
-```
-(Surrealism, fantasy art, macro photography style). A magical composition where the specific character is captured inside a giant, life-sized glass snow globe. [CRITICAL: Keep the face identical to the source image, maintain consistent facial features within the glass distortion].
-
-Inside the Globe: The character is wearing a white faux fur winter coat and a red Santa hat, catching falling snowflakes with her hands. The environment inside includes miniature snow-covered pine trees decorated with colorful Christmas lights twinkling in red, green, blue, and gold. A tiny wooden cabin sits among the trees. Swirling magical glitter and snow dust fill the air inside the sphere.
-
-Outside the Globe: The background is a blurry, cozy living room with a fireplace, emphasizing that the character is inside the ornament.
-
-Lighting: The snow globe is glowing from within, illuminated by the warm colorful glow of the Christmas tree lights mixing with cool magical blue and white light on the falling snow. The character's face is beautifully lit by this magical mixed lighting. External warm light reflects off the curved glass surface, creating rainbow prismatic effects.
-
-Technical: Ray tracing reflections on the glass, refraction effects, crystal clear focus on the character, magical atmosphere, ethereal and dreamy aesthetic, 8k resolution, intricate details of the snowflakes and Christmas lights bokeh.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=ea83b511-6b1a-45d7-aa99-26ca7c2c6a03)** | Likes: 6
-
----
-
 #### Cinematic Portrait Photography
 
 <img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
@@ -503,148 +637,134 @@ cinematic portrait photography, motion blur crowd effect, urban stillness aesthe
 
 ---
 
-#### Create A Beautiful
+#### Ultra-cinematic Cozy Japanese Living Room
 
-<img src="https://cdn.bestnanobananaprompt.com/uph75lvdtc_1765767270757.jpg" width="400" alt="Create A Beautiful">
+<img src="https://cdn.bestnanobananaprompt.com/x659x5u4ma_1766582417437.webp" width="400" alt="Ultra-cinematic Cozy Japanese Living Room">
 
 **Prompt:**
 ```
-"Create a beautiful, photo book style magazine cover that fully utilizes the 9:16 aspect ratio. Place the attached person at the precise coordinates of [latitude/longitude coordinate], seamlessly blending them into the scene as if they are sightseeing. Approach this task with the understanding that this is a critical page that will significantly influence visitor numbers. NEGATIVE: coordinate texts"
+Ultra-cinematic cozy Japanese living room, warm ambient lamp light from overhead, polished Tokyo wooden floor. Goku (adult form, medium height) playfully lifting tiny dumbbells, Naruto (teenager, orange jacket) beside him laughing and copying the pose, large Totoro seated calmly at a small easel painting with a brush, tiny Pikachu bouncing excitedly with small electric sparks cheering them on. 35mm shallow depth of field, soft bloom on light sources, vibrant anime realism, expressive faces, dynamic micro-gestures, clean contact shadows, high-detail wood grain textures, magical friendly atmosphere, balanced group composition, anatomically consistent, vivid nano banana clarity.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=7fbf82bd-e100-4333-a792-0dee2ce3c6f2)** | Likes: 5
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=ff6af32f-b841-4171-ba89-b252613bf82b)** | Likes: 5
 
 ---
 
-#### oung woman with a fit, curvy physique taking a mirror selfie
+#### Korean Instagram Goddess style
 
-<img src="https://cdn.bestnanobananaprompt.com/3aha5y5av7u_1766889416875.jpg" width="400" alt="oung woman with a fit, curvy physique taking a mirror selfie">
+<img src="https://cdn.bestnanobananaprompt.com/7tm27vofx3t_1766559859490.jpg" width="400" alt="Korean Instagram Goddess style">
+
+**Prompt:**
+```
+A full-body photograph taken deep within a snow-covered forest in Sapporo at night under clear, cold blue moonlight. A stunning Korean Instagram goddess with a heavily heavily edited, exaggerated hourglass figure (especially wide hips and tiny waist) is posing. She wears the same warm fur hat and a very short, cropped faux shearling (yangmal) jacket that barely covers her midriff (above the belly button). Her tight light blue camisole, short mink hotpants, and Ugg boots are visible. Fresh snow dusted on her and clothes; pinkish blush on knees/elbows from cold. She is posing with one hand touching the snowy branch of a pine tree, looking up at the night sky with a mystical expression. The background is a dense, snow-laden pine forest lit by magical, deep blue moonlight, with a clear night sky full of stars visible above the trees. The ground is deep, untouched snow. The photo has a slightly grainy, natural smartphone quality. --ar 9:21 --v 6.0
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=473f0e0d-3897-4978-a985-6f9f66603248)** | Likes: 5
+
+---
+
+
+### Product Photography
+
+#### high-end Christmas product photoshoot
+
+<img src="https://cdn.bestnanobananaprompt.com/kortg4j582_1766559823654.jpg" width="400" alt="high-end Christmas product photoshoot">
+
+**Prompt:**
+```
+The foundation of this setup is strict product preservation. The uploaded product must stay 100% identical in shape, size, materials, colors, label design, typography, logos, and all visible text. No redesign, enhancement, translation, or stylization of any kind. Think of the product as photographed in a real luxury studio, not recreated.
+
+Go to Nano Banana Pro
+
+Write the full prompt given below
+
+Upload your reference image
+
+Hit "Generate" and get the edited image
+
+Scene & Environment
+Choose a cozy, studio, or outdoor Christmas setting that supports the product without overpowering it. Backgrounds like wooden windowsills, velvet backdrops, or snowy landscapes work beautifully when paired with soft winter bokeh, blurred Christmas tree lights, or gentle snowfall.
+
+Festive Styling
+Holiday accents should feel natural and tasteful—holly, ribbons, ornaments, fairy lights—placed carefully so they never cover or distract from the product. If you add a festive accessory (like a Santa hat, scarf, or ribbon), it must fit perfectly and never alter the product’s structure or hide the label.
+
+Lighting & Camera
+Lighting is what sells luxury here. Use warm golden Christmas tones balanced with cool winter hues. Soft, diffused light keeps everything elegant, while subtle rim lighting adds depth. Avoid glare or reflections on any text. A shallow depth of field with a professional DSLR look (such as an 85mm lens) helps isolate the product and elevate the composition.
+
+Overall Mood
+The final image should feel like a premium holiday advertisement—clean, cozy, elegant, and festive. Ultra-high resolution, photorealistic textures, and an editorial finish make it suitable for brand websites, social campaigns, and seasonal promotions.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=e9a77625-a73b-4c2c-8664-390856f05c4f)** | Likes: 6
+
+---
+
+#### Product Prompt
+
+<img src="https://cdn.bestnanobananaprompt.com/m1jvxpbyquo_1765767047039.jpg" width="400" alt="Product Prompt">
 
 **Prompt:**
 ```
 {
-"subject": {
-"description": "Young woman with a fit, curvy physique taking a mirror selfie",
-"hair": "Dark brown hair styled in a messy, high bun with loose strands and wispy bangs framing the face",
-"clothing": "Black racerback sports bra, tight black booty shorts with a Halloween pattern featuring orange jack-o'-lantern pumpkins and small purple stars",
-"physique": "Athletic and voluptuous build, prominent glutes, slim waist, visible back musculature, tan skin tone",
-"accessories": "Gold ring on right hand, small earrings",
-"phone": "Gold or champagne-colored iPhone with a textured, puffy 'puffer' style case held in the right hand"
-},
-"pose": {
-"stance": "Standing with back towards the mirror, torso twisted slightly to the left",
-"head_orientation": "Head turned over the left shoulder, looking directly into the mirror/camera",
-"limbs": "Right arm raised holding the phone, left arm down by side, legs standing straight with weight slightly shifted",
-"focus": "Emphasis on the posterior view and profile curve"
-},
-"environment": {
-"setting": "Modern apartment interior seen through a mirror reflection",
-"details": "Large floor-to-ceiling window on the left revealing a city skyline and blue sky, white door frame on the right, glimpse of a living area in the background with a couch and ceiling light",
-"surface": "Clean mirror surface reflecting the subject and room"
-},
-"camera": {
-"shot_type": "Mirror selfie, medium shot capturing from knees to top of head",
-"perspective": "Reflection view, camera positioned at shoulder height",
-"focal_length": "26mm equivalent (smartphone main camera)",
-"depth_of_field": "Deep depth of field, background slightly softer but visible"
-},
-"lighting": {
-"source": "Strong natural daylight entering from the large window on the left, mixed with soft indoor ambient lighting",
-"characteristics": "Directional side lighting creating highlights on the left arm, hair, and profile, casting soft shadows on the right side of the back and legs",
-"quality": "Realistic, high-contrast daylight balance"
-},
-"mood_and_expression": {
-"emotion": "Confident, sultry, casual",
-"facial_expression": "Neutral to slight pout, focused gaze on the phone screen/mirror reflection",
-"atmosphere": "Casual lifestyle, influencer aesthetic, morning or afternoon vibe"
-},
-"style_and_realism": {
-"aesthetic": "Raw smartphone photography, unpolished social media snapshot",
-"rendering": "Photorealistic, 8k resolution, texture-rich",
-"details": "Visible skin texture, natural fabric folds in clothing, realistic light falloff"
-},
-"colors_and_tone": {
-"palette": "Natural skin tones (tan), deep blacks (clothing), bright oranges (pumpkins), cool whites and blues (background/window)",
-"contrast": "Medium-high contrast due to window light",
-"saturation": "Natural to slightly vibrant"
-},
-"quality_and_technical_details": {
-"resolution": "Best quality, ultra-detailed",
-"sharpness": "Sharp focus on the subject, no motion blur",
-"noise": "Subtle digital noise characteristic of smartphone sensors"
-},
-"aspect_ratio_and_output": {
-"ratio": "3:4",
-"framing": "Vertical portrait orientation"
-},
-"controlnet": {
-"pose_control": {
-"model_type": "DWPose",
-"purpose": "Exact skeletal and pose lock",
-"constraints": [
-"preserve shoulder width",
-"preserve hip angle",
-"preserve spine curvature",
-"preserve limb placement"
-],
-"recommended_weight": 1.0
-},
-"depth_control": {
-"model_type": "ZoeDepth",
-"purpose": "Depth, volume, and camera-to-body spatial lock",
-"constraints": [
-"preserve glute foreground dominance",
-"prevent flat or compressed depth",
-"maintain clear torso-to-background separation"
-],
-"recommended_weight": 0.8
-}
-},
-"negative_prompt": {
-"forbidden_elements": [
-"anatomy normalization",
-"body proportion averaging",
-"reduced glute volume",
-"flattened curves",
-"slimmed torso",
-"aesthetic proportion correction",
-"beauty standard enforcement",
-"dataset-average female anatomy",
-"camera angles that reduce volume",
-"wide-angle distortion not in reference",
-"cropping that removes volume",
-"depth flattening",
-"beautification filters",
-"skin smoothing",
-"plastic skin",
-"airbrushed texture",
-"stylized realism",
-"cartoonish",
-"sketch",
-"painting",
-"blur",
-"low quality",
-"distorted hands",
-"missing phone"
-]
-}
-}
+  "角色设定": "你是一名顶级商业摄影师与品牌视觉导演，擅长用真实生活场景与克制但具有吸引力的人物参与，打造高传播力的产品影像。你极度重视人物身体比例、姿态与构图层级：人物增强情绪与欲望张力，但产品永远是画面的绝对主角。",
+  "输入变量": {
+    "品牌名称": "{{BRAND}}",
+    "产品名称": "{{PRODUCT}}",
+    "产品品类/形态": "{{CATEGORY}}",
+    "产品主色": "{{PRODUCT_COLOR}}",
+    "使用场景关键词": "{{SCENE_KEYWORDS}}",
+    "季节": "{{SEASON}}",
+    "时间": "{{TIME_OF_DAY}}",
+    "人物气质": "{{MODEL_VIBE}}"
+  },
+  "创作总原则（最高优先级）": {
+    "产品主角": "{{PRODUCT}}必须是画面中对焦最清晰、细节最锐利、色彩最突出、第一眼最先被注意到的主体。",
+    "人物背景但完整可读": "人物作为中景/背景层级出现，身体结构与姿态必须完整可读（能感知躯干、四肢与曲线逻辑），避免碎片化到无法理解身体结构。",
+    "吸引力来源": "吸引力来自身体整体曲线、姿态、皮肤质感与光影氛围（健康、自信、放松），而不是刻意挑逗、露骨暗示或表演化姿势。",
+    "真实生活感": "画面像现实生活中自然发生的一幕，而非棚拍广告摆拍；保留轻微生活痕迹。",
+    "一眼可读传播": "场景在1秒内可理解，适合社交媒体快速浏览与停留。"
+  },
+  "品牌理解与场景生成": {
+    "品牌解析": "根据{{BRAND}}推断其气质（年轻/高端/活力/自然/都市/松弛），并决定画面材质与色调（例如高端=更克制、更干净；活力=更明亮、更动感）。",
+    "场景匹配": "围绕{{PRODUCT}}的使用逻辑与{{SCENE_KEYWORDS}}生成合理生活场景（例如：饮料=户外/阳台/沙滩；香氛=卧室/浴室；护肤=洗手台；穿戴=通勤/咖啡馆）。",
+    "产品与场景关系": "{{PRODUCT}}与场景发生明确关系（正在被拿起、刚放下、旁边有使用痕迹/水珠/蒸汽/纸巾/包袋等），让观众相信它正在被使用。"
+  },
+  "人物策略（核心）": {
+    "人物目的": "人物用于放大{{PRODUCT}}的欲望价值与感官吸引力（舒适、清爽、精致、放松、能量、亲密感），而非作为独立叙事主体。",
+    "选择原则": "根据产品核心欲望点，匹配最合适的人体特征：清爽/夏日/活力→大腿、腰线、整体曲线；触感/护理/精致→手部与手指；高级/香氛/珠宝→锁骨、肩颈、耳部；气质→侧脸轮廓；力量感→下巴、胡须、喉结（男性）。",
+    "呈现方式": [
+      "人物在画面中可见面积约30%–60%，位于中景或背景，形成清晰层次",
+      "可裁掉头部或轻微虚化面部，但身体躯干与曲线必须完整可感知",
+      "姿态自然（坐、倚靠、站立、行走、伸手拿取/放下），避免夸张摆拍与明显“凹造型”"
+    ],
+    "服装逻辑": "服装与场景/季节一致（例如夏季=泳装/背心短裤/居家薄衫；城市=轻便通勤/休闲），暴露程度自然合理、健康审美、无露骨内容。",
+    "权重控制": "即使人物很有存在感，产品仍在对焦、色彩、构图中心性上高于人物一个层级。"
+  },
+  "核心场景描述（直接用于生成）": "生成一张超写实生活方式产品照片：{{PRODUCT}}（品牌：{{BRAND}}，品类：{{CATEGORY}}，主色：{{PRODUCT_COLOR}}）位于画面前景或视觉焦点位置，为全画面最清晰对焦主体，质感与细节极其锐利（logo/文字准确、边缘干净、材质真实）。场景为{{SEASON}}的{{TIME_OF_DAY}}，地点：{{SCENE_KEYWORDS}}所暗示的真实生活空间（如窗边/阳台/沙滩/泳池边/咖啡馆露台/酒店民宿）。画面中出现一位成年人（adult）作为中景或背景元素，气质{{MODEL_VIBE}}，身体比例自然健康，曲线完整可感知，姿态松弛自然（如坐在椅子旁、倚靠栏杆、从桌面拿起物品或刚放下{{PRODUCT}}），通过光影与皮肤质感提供高级的感官吸引力，但绝不喧宾夺主。整体情绪：松弛、真实、干净、略带欲望张力；像手机随手抓拍到的高级瞬间，但画质与构图达到商业摄影级别。",
+  "构图与镜头语言": {
+    "构图层级": "前景=产品（主角、最大视觉权重）；中景/背景=人物（完整可读）+环境（简洁支撑）",
+    "镜头焦段建议": "35mm或50mm写实商业摄影感，轻微透视，
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=02d3fc22-6342-49f8-a178-f2c13e5005c2)** | Likes: 5
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a6b79f2-81b0-47f3-b981-b362f1760d79)** | Likes: 4
 
 ---
 
-#### 33 Grid Of The Same Girl Wearing A Pink Dress
+#### Promotional Poster For The Skin Care Essential
 
-<img src="https://cdn.bestnanobananaprompt.com/5nbmocsk92o_1766245621924.png" width="400" alt="33 Grid Of The Same Girl Wearing A Pink Dress">
+<img src="https://cdn.bestnanobananaprompt.com/biioob1jmod_1765210751435.png" width="400" alt="Promotional Poster For The Skin Care Essential">
 
 **Prompt:**
 ```
-Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
+Generate a promotional poster for the skin care essential oil in Figure 1，AR 2:3
+1. Scene: A brown essential oil bottle is elegantly placed on a natural grey stone slab, covered with vibrant emerald green moss. The bottle has a golden label "Lovart" and is slightly tilted. The base is surrounded by soft pink and milky white peonies. A few tender petals float gently in the air, and golden honey drips delicately on one side of the stone slab like a waterfall and a fine rain. The background is a soft and blurry warm pink wall with dynamic backlighting, creating a soft glow around the product.
+2. Copywriting information
+- SUMMER SALE
+-  30% OFF (orders $280+)
+- brand name: Lovart
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 5
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=14f69eb4-e87c-4677-982c-5a1319157253)** | Likes: 4
 
 ---
 
@@ -757,120 +877,48 @@ A Gestural Impasto Revelation of [SUBJECT], with thick, textured layers of paint
 ---
 
 
-### Product Photography
+### Cinematic
 
-#### high-end Christmas product photoshoot
+#### Emotional Film Photography
 
-<img src="https://cdn.bestnanobananaprompt.com/kortg4j582_1766559823654.jpg" width="400" alt="high-end Christmas product photoshoot">
+<img src="https://cdn.bestnanobananaprompt.com/awesome_emotional_film_photography_1764387207982.png" width="400" alt="Emotional Film Photography">
 
 **Prompt:**
 ```
-The foundation of this setup is strict product preservation. The uploaded product must stay 100% identical in shape, size, materials, colors, label design, typography, logos, and all visible text. No redesign, enhancement, translation, or stylization of any kind. Think of the product as photographed in a real luxury studio, not recreated.
-
-Go to Nano Banana Pro
-
-Write the full prompt given below
-
-Upload your reference image
-
-Hit "Generate" and get the edited image
-
-Scene & Environment
-Choose a cozy, studio, or outdoor Christmas setting that supports the product without overpowering it. Backgrounds like wooden windowsills, velvet backdrops, or snowy landscapes work beautifully when paired with soft winter bokeh, blurred Christmas tree lights, or gentle snowfall.
-
-Festive Styling
-Holiday accents should feel natural and tasteful—holly, ribbons, ornaments, fairy lights—placed carefully so they never cover or distract from the product. If you add a festive accessory (like a Santa hat, scarf, or ribbon), it must fit perfectly and never alter the product’s structure or hide the label.
-
-Lighting & Camera
-Lighting is what sells luxury here. Use warm golden Christmas tones balanced with cool winter hues. Soft, diffused light keeps everything elegant, while subtle rim lighting adds depth. Avoid glare or reflections on any text. A shallow depth of field with a professional DSLR look (such as an 85mm lens) helps isolate the product and elevate the composition.
-
-Overall Mood
-The final image should feel like a premium holiday advertisement—clean, cozy, elegant, and festive. Ultra-high resolution, photorealistic textures, and an editorial finish make it suitable for brand websites, social campaigns, and seasonal promotions.
+Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=e9a77625-a73b-4c2c-8664-390856f05c4f)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=95c579e8-4a6f-4abb-97d9-d66683e303c4)** | Likes: 5
 
 ---
 
-#### Product Prompt
 
-<img src="https://cdn.bestnanobananaprompt.com/m1jvxpbyquo_1765767047039.jpg" width="400" alt="Product Prompt">
+### Comic Art
+
+#### Caricatures --sref
+
+<img src="https://cdn.bestnanobananaprompt.com/g0dh4ifel76_1764811434966.jpg" width="400" alt="Caricatures --sref">
 
 **Prompt:**
 ```
-{
-  "角色设定": "你是一名顶级商业摄影师与品牌视觉导演，擅长用真实生活场景与克制但具有吸引力的人物参与，打造高传播力的产品影像。你极度重视人物身体比例、姿态与构图层级：人物增强情绪与欲望张力，但产品永远是画面的绝对主角。",
-  "输入变量": {
-    "品牌名称": "{{BRAND}}",
-    "产品名称": "{{PRODUCT}}",
-    "产品品类/形态": "{{CATEGORY}}",
-    "产品主色": "{{PRODUCT_COLOR}}",
-    "使用场景关键词": "{{SCENE_KEYWORDS}}",
-    "季节": "{{SEASON}}",
-    "时间": "{{TIME_OF_DAY}}",
-    "人物气质": "{{MODEL_VIBE}}"
-  },
-  "创作总原则（最高优先级）": {
-    "产品主角": "{{PRODUCT}}必须是画面中对焦最清晰、细节最锐利、色彩最突出、第一眼最先被注意到的主体。",
-    "人物背景但完整可读": "人物作为中景/背景层级出现，身体结构与姿态必须完整可读（能感知躯干、四肢与曲线逻辑），避免碎片化到无法理解身体结构。",
-    "吸引力来源": "吸引力来自身体整体曲线、姿态、皮肤质感与光影氛围（健康、自信、放松），而不是刻意挑逗、露骨暗示或表演化姿势。",
-    "真实生活感": "画面像现实生活中自然发生的一幕，而非棚拍广告摆拍；保留轻微生活痕迹。",
-    "一眼可读传播": "场景在1秒内可理解，适合社交媒体快速浏览与停留。"
-  },
-  "品牌理解与场景生成": {
-    "品牌解析": "根据{{BRAND}}推断其气质（年轻/高端/活力/自然/都市/松弛），并决定画面材质与色调（例如高端=更克制、更干净；活力=更明亮、更动感）。",
-    "场景匹配": "围绕{{PRODUCT}}的使用逻辑与{{SCENE_KEYWORDS}}生成合理生活场景（例如：饮料=户外/阳台/沙滩；香氛=卧室/浴室；护肤=洗手台；穿戴=通勤/咖啡馆）。",
-    "产品与场景关系": "{{PRODUCT}}与场景发生明确关系（正在被拿起、刚放下、旁边有使用痕迹/水珠/蒸汽/纸巾/包袋等），让观众相信它正在被使用。"
-  },
-  "人物策略（核心）": {
-    "人物目的": "人物用于放大{{PRODUCT}}的欲望价值与感官吸引力（舒适、清爽、精致、放松、能量、亲密感），而非作为独立叙事主体。",
-    "选择原则": "根据产品核心欲望点，匹配最合适的人体特征：清爽/夏日/活力→大腿、腰线、整体曲线；触感/护理/精致→手部与手指；高级/香氛/珠宝→锁骨、肩颈、耳部；气质→侧脸轮廓；力量感→下巴、胡须、喉结（男性）。",
-    "呈现方式": [
-      "人物在画面中可见面积约30%–60%，位于中景或背景，形成清晰层次",
-      "可裁掉头部或轻微虚化面部，但身体躯干与曲线必须完整可感知",
-      "姿态自然（坐、倚靠、站立、行走、伸手拿取/放下），避免夸张摆拍与明显“凹造型”"
-    ],
-    "服装逻辑": "服装与场景/季节一致（例如夏季=泳装/背心短裤/居家薄衫；城市=轻便通勤/休闲），暴露程度自然合理、健康审美、无露骨内容。",
-    "权重控制": "即使人物很有存在感，产品仍在对焦、色彩、构图中心性上高于人物一个层级。"
-  },
-  "核心场景描述（直接用于生成）": "生成一张超写实生活方式产品照片：{{PRODUCT}}（品牌：{{BRAND}}，品类：{{CATEGORY}}，主色：{{PRODUCT_COLOR}}）位于画面前景或视觉焦点位置，为全画面最清晰对焦主体，质感与细节极其锐利（logo/文字准确、边缘干净、材质真实）。场景为{{SEASON}}的{{TIME_OF_DAY}}，地点：{{SCENE_KEYWORDS}}所暗示的真实生活空间（如窗边/阳台/沙滩/泳池边/咖啡馆露台/酒店民宿）。画面中出现一位成年人（adult）作为中景或背景元素，气质{{MODEL_VIBE}}，身体比例自然健康，曲线完整可感知，姿态松弛自然（如坐在椅子旁、倚靠栏杆、从桌面拿起物品或刚放下{{PRODUCT}}），通过光影与皮肤质感提供高级的感官吸引力，但绝不喧宾夺主。整体情绪：松弛、真实、干净、略带欲望张力；像手机随手抓拍到的高级瞬间，但画质与构图达到商业摄影级别。",
-  "构图与镜头语言": {
-    "构图层级": "前景=产品（主角、最大视觉权重）；中景/背景=人物（完整可读）+环境（简洁支撑）",
-    "镜头焦段建议": "35mm或50mm写实商业摄影感，轻微透视，
+A 2x2 grid featuring four distinct, expressive digital caricatures of male public figures. The art style is a vibrant fusion of bold line art, dynamic brushstrokes, and digital painting with a hand-drawn, inky sketch aesthetic, complete with subtle watercolor washes and ink splatters. Exaggerated features and lively expressions dominate, rendered with a rich, slightly muted color palette including earthy tones and cool grays. Soft, diffused studio lighting creates clear forms and gentle shadows against a minimalist, textured background. The composition is a bust shot for each, conveying a humorous and energetic mood in high-detail, professional 4K illustration quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a6b79f2-81b0-47f3-b981-b362f1760d79)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a4d4eb2b-3ba9-4b68-a3f4-601319d10982)** | Likes: 5
 
 ---
 
-#### Promotional Poster For The Skin Care Essential
+#### Mio-gpt image 1.5
 
-<img src="https://cdn.bestnanobananaprompt.com/biioob1jmod_1765210751435.png" width="400" alt="Promotional Poster For The Skin Care Essential">
-
-**Prompt:**
-```
-Generate a promotional poster for the skin care essential oil in Figure 1，AR 2:3
-1. Scene: A brown essential oil bottle is elegantly placed on a natural grey stone slab, covered with vibrant emerald green moss. The bottle has a golden label "Lovart" and is slightly tilted. The base is surrounded by soft pink and milky white peonies. A few tender petals float gently in the air, and golden honey drips delicately on one side of the stone slab like a waterfall and a fine rain. The background is a soft and blurry warm pink wall with dynamic backlighting, creating a soft glow around the product.
-2. Copywriting information
-- SUMMER SALE
--  30% OFF (orders $280+)
-- brand name: Lovart
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=14f69eb4-e87c-4677-982c-5a1319157253)** | Likes: 4
-
----
-
-#### Product Interaction Photography
-
-<img src="https://cdn.bestnanobananaprompt.com/5xve5csz3vt_1766110203260.jpg" width="400" alt="Product Interaction Photography">
+<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
 
 **Prompt:**
 ```
-A modern sneaker mid-stride at center of neon coral pigment explosion, particles radiating outward, frozen chaos, high-speed flash photography, dynamic energy, against black background, festival of color, impactful advertising
+Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
+ is. Make the image’s aspect ratio match A4 size.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9cac2fe8-cf32-450e-8f5e-8056b6bb69ad)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
 
 ---
 
@@ -920,65 +968,192 @@ Environment: Solid studio background in soft pastel red or http://green.Lighting
 
 ---
 
+#### Golden hour portrait of a woman in black lace dress
 
-### Comic Art
-
-#### Caricatures --sref
-
-<img src="https://cdn.bestnanobananaprompt.com/g0dh4ifel76_1764811434966.jpg" width="400" alt="Caricatures --sref">
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400411169_6mokcl.jpg" width="400" alt="Golden hour portrait of a woman in black lace dress">
 
 **Prompt:**
 ```
-A 2x2 grid featuring four distinct, expressive digital caricatures of male public figures. The art style is a vibrant fusion of bold line art, dynamic brushstrokes, and digital painting with a hand-drawn, inky sketch aesthetic, complete with subtle watercolor washes and ink splatters. Exaggerated features and lively expressions dominate, rendered with a rich, slightly muted color palette including earthy tones and cool grays. Soft, diffused studio lighting creates clear forms and gentle shadows against a minimalist, textured background. The composition is a bust shot for each, conveying a humorous and energetic mood in high-detail, professional 4K illustration quality.
+Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, using the facial features and hairstyle from the provided photo. She is wearing a luxurious black lace camisole with a stylish cutout design on the sleeves. Her pose is elegant and confident; she glances back over her shoulder, with an elegant and mysterious look in her eyes. She has gray eyes and long jet-black hair cascading down like a waterfall.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a4d4eb2b-3ba9-4b68-a3f4-601319d10982)** | Likes: 5
-
----
-
-#### Mio-gpt image 1.5
-
-<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
- is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=dd9d706e-b046-4644-a064-f5b0db810de4)** | Likes: 3
 
 ---
 
 
-### Cinematic
+### Minimalist
 
-#### Emotional Film Photography
+#### Young adult female, American, fair skin
 
-<img src="https://cdn.bestnanobananaprompt.com/awesome_emotional_film_photography_1764387207982.png" width="400" alt="Emotional Film Photography">
+<img src="https://cdn.bestnanobananaprompt.com/96ftqwln3ft_1766890015274.jpg" width="400" alt="Young adult female, American, fair skin">
 
 **Prompt:**
 ```
-Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
+{
+  "project_metadata": {
+    "format": {
+      "aspect_ratio": "9:16",
+      "resolution": "4K Ultra HD",
+      "style": "Photorealistic Fashion Editorial"
+    }
+  },
+  "subject_model": {
+    "physical_attributes": {
+      "demographics": "Young adult female, American, fair skin",
+      "anatomy": {
+        "build": "Slim-curvy silhouette",
+        "bust_specification": "Prominent, larger bust size",
+        "height": "Tall aesthetic"
+      },
+      "hair": {
+        "color": "Medium brown",
+        "style": "Long, center-parted, smooth natural waves"
+      }
+    },
+    "performance": {
+      "pose": "Full body, weight on one leg, 3/4 view",
+      "expression": "Neutral, calm, looking away from camera",
+      "angles": "Eye-level framing, head tilted left"
+    }
+  },
+  "apparel_system": {
+    "main_garment": {
+      "type": "Bodycon midi dress",
+      "fabric": "Deep burgundy crushed velvet",
+      "design_specs": {
+        "neckline": "Deep V-neck with lace trim",
+        "straps": "Spaghetti straps",
+        "length": "Mid-calf"
+      }
+    },
+    "footwear": {
+      "type": "Open-toe nude heels",
+      "features": "Ankle straps, visible toes"
+    }
+  },
+  "environment_geometry": {
+    "interior_design": {
+      "flooring": "Warm orange-brown terracotta tiles",
+      "architecture": "Cream walls, decorative molding, frosted glass door",
+      "props": {
+        "furniture": "Dark polished wood console table",
+        "decor": "Ceramic vase with single light pink rose"
+      }
+    }
+  },
+  "optical_engine": {
+    "lighting": {
+      "source": "Natural daylight from left",
+      "quality": "Soft, minimal shadows, even skin illumination"
+    },
+    "technical": {
+      "focus": "Sharp focus on subject, high dynamic range",
+      "negative_constraints": [
+        "blur",
+        "distortion",
+        "plastic skin",
+        "extra limbs",
+        "cartoon"
+      ]
+    }
+  }
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=95c579e8-4a6f-4abb-97d9-d66683e303c4)** | Likes: 5
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa10d1d-7c14-4b37-9ec4-ffa299bb8ea2)** | Likes: 4
+
+---
+
+#### A full-body mirror selfie of a young woman cosplaying
+
+<img src="https://cdn.bestnanobananaprompt.com/hnm9qzvqp3c_1766326859807.jpg" width="400" alt="A full-body mirror selfie of a young woman cosplaying">
+
+**Prompt:**
+```
+{
+
+"subject": {
+
+"description": "A full-body mirror selfie of a young woman cosplaying Reze from Chainsaw Man, standing on a circular black platform.", "mirror_rules": "White smartphone completely covering the face, screen facing forward, no text reflection issues.", "age": "Young adult", "expression": { "eyes": { "look": "Hidden by phone", "energy": "Mysterious", "direction": "Forward" }, "mouth": { "position": "Hidden", "energy": "Neutral" }, "overall": "Mysterious and cool, face obscured by device" }, "hair": { "color": "Dark violet black", "style": "Short bob cut with bangs, silky texture", "effect": "Neat and anime-accurate" }, "body": { "frame": "Slender, anime-like proportions, long legs", "waist": "Slim", "chest": "Natural", "legs": "Long and toned", "skin": { "visible_areas": "Arms, thighs, neck", "tone": "Fair", "texture": "Smooth", "lighting_effect": "Soft studio glow" } }, "pose": { "position": "Standing upright", "base": "Standing on a glossy black circular platform", "overall": "One leg slightly forward, right hand extended to the side with elegant finger splay, left hand holding phone to face" }, "clothing": { "top": { "type": "Sleeveless collared shirt", "color": "White", "details": "Black ribbon bow tie at collar, button-up", "effect": "Crisp and fitted" }, "bottom": { "type": "High-waisted hot pants with thigh-high socks", "color": "Black", "details": "Denim texture shorts, opaque black socks, black loafers, black choker" } }
+},
+
+"accessories": {
+
+"device": "White smartphone with multiple camera lenses", "jewelry": "Black choker necklace", "prop": "Black circular stage platform on the floor"
+},
+
+"photography": {
+
+"camera_style": "Studio mirror selfie aesthetics", "angle": "Eye-level, centered", "shot_type": "Full body shot", "aspect_ratio": "9:16", "texture": "High definition, clean minimalist aesthetic", "lighting": "Soft studio lighting, evenly lit", "depth_of_field": "Deep focus", "composition": "Balanced framing, moderate headroom above subject, subject occupies approx 80% of vertical space, visible floor platform, absolutely clean background, infinity cove effect"
+},
+
+"background": {
+
+"setting": "Infinite cyclorama studio (Infinity Cove)", "wall_color": "Gradient purple to violet", "elements": \[ "Smooth color gradient", "Curved wall-to-floor transition", "No physical props", "No horizon line" \], "atmosphere": "Dreamy, pop-culture, studio perfection", "lighting": "Cool toned ambient light, seamless transition"
+},
+
+"the_vibe": {
+
+"energy": "Cool, stylish, figurine-like", "mood": "Playful yet mysterious", "aesthetic": "Cosplay photography, 2.5D style, clean minimalism", "authenticity": "Staged perfection", "intimacy": "Distant due to hidden face", "story": "A cosplayer showing off her Reze outfit on a display base", "caption_energy": "Life-sized figure unboxing"
+},
+
+"constraints": {
+
+"must_keep": \[ "Purple background", "Black circular platform", "Phone covering face", "Reze cosplay outfit details", "Clean infinity background", "Balanced spacing" \], "avoid": \[ "Messy room", "Visible face", "Complex patterns", "Paper rolls", "Visible corners", "Horizon lines", "Baseboards" \]
+},
+
+"negative_prompt": [
+
+"nsfw", "ugly", "deformed hands", "missing fingers", "text overlay", "low quality", "grainy", "realistic face", "paper roll", "backdrop stand", "rolled up cloth", "floor seam", "wall corner", "skirting board", "baseboard", "horizon line", "creases", "folds", "furniture", "shadows on wall"
+]
+
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5d344ede-6d63-4fa8-bf7e-b6d59331ef82)** | Likes: 4
 
 ---
 
 
-### 3D Avatar
+### Creative
 
-#### 3D Blind Box Style Avatar
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
 
-<img src="https://cdn.bestnanobananaprompt.com/awesome_3d_blind_box_style_avatar_1764387306061.png" width="400" alt="3D Blind Box Style Avatar">
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
 
 **Prompt:**
 ```
-Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=56ffe3ba-dcb8-4753-a439-12971a3b8ead)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 4
+
+---
+
+#### Hyper-realistic 3d Isometric Masterpiece
+
+<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
+
+**Prompt:**
+```
+Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 3
+
+---
+
+#### Literal Interpretation
+
+<img src="https://cdn.bestnanobananaprompt.com/awesome_literal_interpretation_1764387235870.jpg" width="400" alt="Literal Interpretation">
+
+**Prompt:**
+```
+rare.jpg
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8c95dc64-af46-4ab9-8ebb-c4c869b0633f)** | Likes: 3
 
 ---
 
@@ -1109,178 +1284,18 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 ---
 
 
-### Creative
+### 3D Avatar
 
-#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+#### 3D Blind Box Style Avatar
 
-<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
-
-**Prompt:**
-```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 4
-
----
-
-#### Literal Interpretation
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_literal_interpretation_1764387235870.jpg" width="400" alt="Literal Interpretation">
+<img src="https://cdn.bestnanobananaprompt.com/awesome_3d_blind_box_style_avatar_1764387306061.png" width="400" alt="3D Blind Box Style Avatar">
 
 **Prompt:**
 ```
-rare.jpg
+Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8c95dc64-af46-4ab9-8ebb-c4c869b0633f)** | Likes: 3
-
----
-
-#### Hyper-realistic 3d Isometric Masterpiece
-
-<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
-
-**Prompt:**
-```
-Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 3
-
----
-
-
-### Minimalist
-
-#### A full-body mirror selfie of a young woman cosplaying
-
-<img src="https://cdn.bestnanobananaprompt.com/hnm9qzvqp3c_1766326859807.jpg" width="400" alt="A full-body mirror selfie of a young woman cosplaying">
-
-**Prompt:**
-```
-{
-
-"subject": {
-
-"description": "A full-body mirror selfie of a young woman cosplaying Reze from Chainsaw Man, standing on a circular black platform.", "mirror_rules": "White smartphone completely covering the face, screen facing forward, no text reflection issues.", "age": "Young adult", "expression": { "eyes": { "look": "Hidden by phone", "energy": "Mysterious", "direction": "Forward" }, "mouth": { "position": "Hidden", "energy": "Neutral" }, "overall": "Mysterious and cool, face obscured by device" }, "hair": { "color": "Dark violet black", "style": "Short bob cut with bangs, silky texture", "effect": "Neat and anime-accurate" }, "body": { "frame": "Slender, anime-like proportions, long legs", "waist": "Slim", "chest": "Natural", "legs": "Long and toned", "skin": { "visible_areas": "Arms, thighs, neck", "tone": "Fair", "texture": "Smooth", "lighting_effect": "Soft studio glow" } }, "pose": { "position": "Standing upright", "base": "Standing on a glossy black circular platform", "overall": "One leg slightly forward, right hand extended to the side with elegant finger splay, left hand holding phone to face" }, "clothing": { "top": { "type": "Sleeveless collared shirt", "color": "White", "details": "Black ribbon bow tie at collar, button-up", "effect": "Crisp and fitted" }, "bottom": { "type": "High-waisted hot pants with thigh-high socks", "color": "Black", "details": "Denim texture shorts, opaque black socks, black loafers, black choker" } }
-},
-
-"accessories": {
-
-"device": "White smartphone with multiple camera lenses", "jewelry": "Black choker necklace", "prop": "Black circular stage platform on the floor"
-},
-
-"photography": {
-
-"camera_style": "Studio mirror selfie aesthetics", "angle": "Eye-level, centered", "shot_type": "Full body shot", "aspect_ratio": "9:16", "texture": "High definition, clean minimalist aesthetic", "lighting": "Soft studio lighting, evenly lit", "depth_of_field": "Deep focus", "composition": "Balanced framing, moderate headroom above subject, subject occupies approx 80% of vertical space, visible floor platform, absolutely clean background, infinity cove effect"
-},
-
-"background": {
-
-"setting": "Infinite cyclorama studio (Infinity Cove)", "wall_color": "Gradient purple to violet", "elements": \[ "Smooth color gradient", "Curved wall-to-floor transition", "No physical props", "No horizon line" \], "atmosphere": "Dreamy, pop-culture, studio perfection", "lighting": "Cool toned ambient light, seamless transition"
-},
-
-"the_vibe": {
-
-"energy": "Cool, stylish, figurine-like", "mood": "Playful yet mysterious", "aesthetic": "Cosplay photography, 2.5D style, clean minimalism", "authenticity": "Staged perfection", "intimacy": "Distant due to hidden face", "story": "A cosplayer showing off her Reze outfit on a display base", "caption_energy": "Life-sized figure unboxing"
-},
-
-"constraints": {
-
-"must_keep": \[ "Purple background", "Black circular platform", "Phone covering face", "Reze cosplay outfit details", "Clean infinity background", "Balanced spacing" \], "avoid": \[ "Messy room", "Visible face", "Complex patterns", "Paper rolls", "Visible corners", "Horizon lines", "Baseboards" \]
-},
-
-"negative_prompt": [
-
-"nsfw", "ugly", "deformed hands", "missing fingers", "text overlay", "low quality", "grainy", "realistic face", "paper roll", "backdrop stand", "rolled up cloth", "floor seam", "wall corner", "skirting board", "baseboard", "horizon line", "creases", "folds", "furniture", "shadows on wall"
-]
-
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5d344ede-6d63-4fa8-bf7e-b6d59331ef82)** | Likes: 4
-
----
-
-#### Young adult female, American, fair skin
-
-<img src="https://cdn.bestnanobananaprompt.com/96ftqwln3ft_1766890015274.jpg" width="400" alt="Young adult female, American, fair skin">
-
-**Prompt:**
-```
-{
-  "project_metadata": {
-    "format": {
-      "aspect_ratio": "9:16",
-      "resolution": "4K Ultra HD",
-      "style": "Photorealistic Fashion Editorial"
-    }
-  },
-  "subject_model": {
-    "physical_attributes": {
-      "demographics": "Young adult female, American, fair skin",
-      "anatomy": {
-        "build": "Slim-curvy silhouette",
-        "bust_specification": "Prominent, larger bust size",
-        "height": "Tall aesthetic"
-      },
-      "hair": {
-        "color": "Medium brown",
-        "style": "Long, center-parted, smooth natural waves"
-      }
-    },
-    "performance": {
-      "pose": "Full body, weight on one leg, 3/4 view",
-      "expression": "Neutral, calm, looking away from camera",
-      "angles": "Eye-level framing, head tilted left"
-    }
-  },
-  "apparel_system": {
-    "main_garment": {
-      "type": "Bodycon midi dress",
-      "fabric": "Deep burgundy crushed velvet",
-      "design_specs": {
-        "neckline": "Deep V-neck with lace trim",
-        "straps": "Spaghetti straps",
-        "length": "Mid-calf"
-      }
-    },
-    "footwear": {
-      "type": "Open-toe nude heels",
-      "features": "Ankle straps, visible toes"
-    }
-  },
-  "environment_geometry": {
-    "interior_design": {
-      "flooring": "Warm orange-brown terracotta tiles",
-      "architecture": "Cream walls, decorative molding, frosted glass door",
-      "props": {
-        "furniture": "Dark polished wood console table",
-        "decor": "Ceramic vase with single light pink rose"
-      }
-    }
-  },
-  "optical_engine": {
-    "lighting": {
-      "source": "Natural daylight from left",
-      "quality": "Soft, minimal shadows, even skin illumination"
-    },
-    "technical": {
-      "focus": "Sharp focus on subject, high dynamic range",
-      "negative_constraints": [
-        "blur",
-        "distortion",
-        "plastic skin",
-        "extra limbs",
-        "cartoon"
-      ]
-    }
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa10d1d-7c14-4b37-9ec4-ffa299bb8ea2)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=56ffe3ba-dcb8-4753-a439-12971a3b8ead)** | Likes: 4
 
 ---
 
