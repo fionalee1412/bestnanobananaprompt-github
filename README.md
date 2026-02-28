@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 796
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 797
 
 ---
 
@@ -110,7 +110,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 115
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 116
 
 ---
 
@@ -162,7 +162,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 857
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 865
 
 ---
 
@@ -240,7 +240,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 532
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 535
 
 ---
 
@@ -291,7 +291,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 472
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 485
 
 ---
 
@@ -304,7 +304,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 428
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 468
 
 ---
 
@@ -444,7 +444,7 @@ sd
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 326
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 328
 
 ---
 
@@ -568,7 +568,7 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 308
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 311
 
 ---
 
@@ -679,7 +679,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 275
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 278
 
 ---
 
@@ -765,7 +765,7 @@ Cozy, inviting, trendy bar atmosphere
     "camera_angle": "Eye-level shot, looking directly at the camera"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 365
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 368
 
 ---
 
@@ -781,7 +781,7 @@ Cozy, inviting, trendy bar atmosphere
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 275
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 278
 
 ---
 
@@ -882,7 +882,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 231
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 238
 
 ---
 
@@ -975,7 +975,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 119
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 125
 
 ---
 
@@ -1071,7 +1071,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1806ee95-cff0-44e9-aeac-d0abc0dd15a3)** | Likes: 207
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1806ee95-cff0-44e9-aeac-d0abc0dd15a3)** | Likes: 209
 
 ---
 
@@ -1113,7 +1113,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 175
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 181
 
 ---
 
@@ -1128,7 +1128,7 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 168
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 172
 
 ---
 
@@ -1150,7 +1150,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 158
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 162
 
 ---
 
@@ -1200,7 +1200,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 147
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 152
 
 ---
 
@@ -1215,7 +1215,7 @@ same facial features as the man in the reference photo, messy hairstyle framed o
 white marble staircase banister. He is wearing an oversized light blue and white plaid shirt over a
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=4178ff33-31fc-4b39-bfcd-519d20efed66)** | Likes: 125
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=4178ff33-31fc-4b39-bfcd-519d20efed66)** | Likes: 128
 
 ---
 
@@ -1228,7 +1228,7 @@ white marble staircase banister. He is wearing an oversized light blue and white
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 113
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 115
 
 ---
 
@@ -1246,7 +1246,7 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 139
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 143
 
 ---
 
@@ -1266,7 +1266,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 133
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 135
 
 ---
 
