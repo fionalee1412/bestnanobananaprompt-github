@@ -30,7 +30,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 “Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1283
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1284
 
 ---
 
@@ -188,7 +188,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 837
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 838
 
 ---
 
@@ -253,7 +253,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 523
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 533
 
 ---
 
@@ -304,7 +304,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 505
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 507
 
 ---
 
@@ -679,7 +679,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 283
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 284
 
 ---
 
@@ -765,7 +765,7 @@ Cozy, inviting, trendy bar atmosphere
     "camera_angle": "Eye-level shot, looking directly at the camera"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 370
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 371
 
 ---
 
@@ -781,7 +781,7 @@ Cozy, inviting, trendy bar atmosphere
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 280
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 282
 
 ---
 
@@ -882,7 +882,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 242
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 244
 
 ---
 
@@ -975,7 +975,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 133
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 134
 
 ---
 
@@ -1128,7 +1128,7 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 173
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 174
 
 ---
 
@@ -1150,7 +1150,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 163
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 164
 
 ---
 
@@ -1200,7 +1200,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 157
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 158
 
 ---
 
@@ -1246,7 +1246,7 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 148
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 150
 
 ---
 
@@ -1266,7 +1266,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 135
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 136
 
 ---
 
