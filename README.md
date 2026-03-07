@@ -110,7 +110,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 117
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 118
 
 ---
 
@@ -162,7 +162,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 876
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 877
 
 ---
 
@@ -188,7 +188,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 839
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 840
 
 ---
 
@@ -201,7 +201,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 544
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 547
 
 ---
 
@@ -572,114 +572,45 @@ changed background
 
 ---
 
-#### yellow open-toe sandals with ankle strap
+#### elegant bedroom with toile
 
-<img src="https://cdn.bestnanobananaprompt.com/59qlxpt4hd_1768874900695.jpg" width="400" alt="yellow open-toe sandals with ankle strap">
+<img src="https://cdn.bestnanobananaprompt.com/6m8nntuj99i_1771811109211.jpg" width="400" alt="elegant bedroom with toile">
 
 **Prompt:**
 ```
 {
-  "metadata": {
-    "task_type": "image_generation",
-    "reference_lock": "strict",
-    "output_quality": "photorealistic",
-    "constraints": {
-      "allow_face_change": false,
-      "allow_body_change": false,
-      "match_reference": true
-    }
+  "meta": {
+    "quality": "ultra_photorealistic, raw style, 8k",
+    "camera": "iPhone 15 Pro Max",
+    "lighting": "soft indoor ambient lighting, vintage film glow",
+    "style": "amateur selfie, no filter, sharp focus"
   },
-  "technical_specs": {
-    "layout_type": "collage",
-    "grid_format": "2x2",
-    "total_panels": 4,
-    "aspect_ratio": "9:16",
-    "visual_style": "mirror selfie"
+  "scene": {
+    "location": "elegant bedroom with toile de jouy patterned curtains and a cream-colored fringed sofa",
+    "atmosphere": "cozy, vintage boudoir aesthetic"
   },
-  "character_model": {
-    "complexion": {
-      "tone": "light–medium warm tan",
-      "texture": "smooth",
-      "finish": "slight sheen"
+  "subject": {
+    "gender": "female",
+    "body": {
+      "type": "hyper-extreme hourglass figure, non-standard proportions, biologically impossible ratio",
+      "breasts": "massive volumetric breasts, heavy full chest, deep cleavage, spilling out of top",
+      "waist": "impossibly tiny waist, snatched waist, extreme contrast to hips",
+      "hips": "wide shelf hips, thick thighs, massive glutes, curvy silhouette"
     },
-    "facial_features": {
-      "shape": "soft oval",
-      "cheeks": "naturally full",
-      "nose": "straight bridge, rounded tip",
-      "lips": "full with cupid bow",
-      "eyes": {
-        "shape": "almond",
-        "makeup": "winged liner, warm shadow",
-        "lashes": "long"
-      },
-      "brows": "arched, medium-full"
+    "face": {
+      "features": "natural beauty, minimal makeup, realistic skin texture, visible pores, blonde hair with bangs and voluminous waves, silver earrings",
+      "expression": "sultry, direct eye contact, slightly parted lips"
     },
-    "hair": {
-      "color": "medium brown",
-      "style": "two braided pigtails",
-      "bangs": "straight fringe",
-      "accessory": "black sunglasses resting on head"
-    }
-  },
-  "wardrobe": {
-    "swimwear": {
-      "type": "bikini",
-      "cut": "triangle top, low-rise bottom",
-      "pattern": "blue with white floral print",
-      "details": "yellow edging and ties"
+    "outfit": {
+      "description": "light blue off-the-shoulder ruffled crop top, matching lace-trimmed panties, ruffled garter on one thigh, light blue pointed-toe heels",
+      "fit": "extremely tight, bursting seams, struggling to contain volume, fabric under maximum tension"
     },
-    "footwear": "yellow open-toe sandals with ankle strap",
-    "jewelry": [
-      "large gold hoop earrings"
-    ],
-    "handheld_props": {
-      "phone": {
-        "case_color": "light pink",
-        "features": "square dual-camera bump"
-      }
-    }
-  },
-  "environment": {
-    "setting": "indoor dressing room / bedroom",
-    "elements": {
-      "background": "white louvered closet doors",
-      "floor": "beige carpet",
-      "mirror": "full-length with thin gold frame"
-    },
-    "lighting": {
-      "type": "soft indoor",
-      "tone": "neutral-warm",
-      "shadows": "minimal"
-    }
-  },
-  "composition_panels": [
-    {
-      "panel_id": 1,
-      "pose_description": "deep squat, chin resting on fist",
-      "expression": "pout"
-    },
-    {
-      "panel_id": 2,
-      "pose_description": "low sit",
-      "action": "holding sunglasses near mouth",
-      "expression": "neutral"
-    },
-    {
-      "panel_id": 3,
-      "pose_description": "standing, one leg raised toward mirror",
-      "action": "holding one braid",
-      "expression": "playful"
-    },
-    {
-      "panel_id": 4,
-      "pose_description": "leaning forward, knees bent",
-      "expression": "soft pout"
-    }
-  ]
+    "pose": "kneeling on the carpeted floor in a pin-up style crawl, arching back to emphasize the extreme hourglass silhouette"
+  }
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 286
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 289
 
 ---
 
@@ -781,7 +712,7 @@ Cozy, inviting, trendy bar atmosphere
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 282
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 283
 
 ---
 
@@ -1113,7 +1044,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 190
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 191
 
 ---
 
@@ -1200,7 +1131,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 160
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 161
 
 ---
 
@@ -1246,7 +1177,7 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 154
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 156
 
 ---
 
@@ -1266,7 +1197,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 136
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 137
 
 ---
 
