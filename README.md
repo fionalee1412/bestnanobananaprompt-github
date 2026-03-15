@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 799
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 800
 
 ---
 
@@ -162,7 +162,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 882
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 887
 
 ---
 
@@ -201,7 +201,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 578
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 588
 
 ---
 
@@ -304,7 +304,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 519
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 522
 
 ---
 
@@ -448,16 +448,45 @@ sd
 
 ---
 
-#### Sunlit Urban Streetwear Portrait Of A Stylish
+#### elegant bedroom with toile
 
-<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
+<img src="https://cdn.bestnanobananaprompt.com/6m8nntuj99i_1771811109211.jpg" width="400" alt="elegant bedroom with toile">
 
 **Prompt:**
 ```
-Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
+{
+  "meta": {
+    "quality": "ultra_photorealistic, raw style, 8k",
+    "camera": "iPhone 15 Pro Max",
+    "lighting": "soft indoor ambient lighting, vintage film glow",
+    "style": "amateur selfie, no filter, sharp focus"
+  },
+  "scene": {
+    "location": "elegant bedroom with toile de jouy patterned curtains and a cream-colored fringed sofa",
+    "atmosphere": "cozy, vintage boudoir aesthetic"
+  },
+  "subject": {
+    "gender": "female",
+    "body": {
+      "type": "hyper-extreme hourglass figure, non-standard proportions, biologically impossible ratio",
+      "breasts": "massive volumetric breasts, heavy full chest, deep cleavage, spilling out of top",
+      "waist": "impossibly tiny waist, snatched waist, extreme contrast to hips",
+      "hips": "wide shelf hips, thick thighs, massive glutes, curvy silhouette"
+    },
+    "face": {
+      "features": "natural beauty, minimal makeup, realistic skin texture, visible pores, blonde hair with bangs and voluminous waves, silver earrings",
+      "expression": "sultry, direct eye contact, slightly parted lips"
+    },
+    "outfit": {
+      "description": "light blue off-the-shoulder ruffled crop top, matching lace-trimmed panties, ruffled garter on one thigh, light blue pointed-toe heels",
+      "fit": "extremely tight, bursting seams, struggling to contain volume, fabric under maximum tension"
+    },
+    "pose": "kneeling on the carpeted floor in a pin-up style crawl, arching back to emphasize the extreme hourglass silhouette"
+  }
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 321
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 326
 
 ---
 
@@ -568,49 +597,20 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 320
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 321
 
 ---
 
-#### elegant bedroom with toile
+#### Sunlit Urban Streetwear Portrait Of A Stylish
 
-<img src="https://cdn.bestnanobananaprompt.com/6m8nntuj99i_1771811109211.jpg" width="400" alt="elegant bedroom with toile">
+<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
 
 **Prompt:**
 ```
-{
-  "meta": {
-    "quality": "ultra_photorealistic, raw style, 8k",
-    "camera": "iPhone 15 Pro Max",
-    "lighting": "soft indoor ambient lighting, vintage film glow",
-    "style": "amateur selfie, no filter, sharp focus"
-  },
-  "scene": {
-    "location": "elegant bedroom with toile de jouy patterned curtains and a cream-colored fringed sofa",
-    "atmosphere": "cozy, vintage boudoir aesthetic"
-  },
-  "subject": {
-    "gender": "female",
-    "body": {
-      "type": "hyper-extreme hourglass figure, non-standard proportions, biologically impossible ratio",
-      "breasts": "massive volumetric breasts, heavy full chest, deep cleavage, spilling out of top",
-      "waist": "impossibly tiny waist, snatched waist, extreme contrast to hips",
-      "hips": "wide shelf hips, thick thighs, massive glutes, curvy silhouette"
-    },
-    "face": {
-      "features": "natural beauty, minimal makeup, realistic skin texture, visible pores, blonde hair with bangs and voluminous waves, silver earrings",
-      "expression": "sultry, direct eye contact, slightly parted lips"
-    },
-    "outfit": {
-      "description": "light blue off-the-shoulder ruffled crop top, matching lace-trimmed panties, ruffled garter on one thigh, light blue pointed-toe heels",
-      "fit": "extremely tight, bursting seams, struggling to contain volume, fabric under maximum tension"
-    },
-    "pose": "kneeling on the carpeted floor in a pin-up style crawl, arching back to emphasize the extreme hourglass silhouette"
-  }
-}
+Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 314
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 321
 
 ---
 
@@ -712,7 +712,7 @@ Cozy, inviting, trendy bar atmosphere
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 284
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 285
 
 ---
 
@@ -813,7 +813,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 245
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 246
 
 ---
 
@@ -1044,7 +1044,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 196
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 197
 
 ---
 
@@ -1060,28 +1060,6 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 175
-
----
-
-#### Swiss alpine winter portrait of a young man
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
-
-**Prompt:**
-```
-Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
-
-He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
-
-Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
-
-Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
-
-Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
-Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 165
 
 ---
 
@@ -1131,7 +1109,29 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 164
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 166
+
+---
+
+#### Swiss alpine winter portrait of a young man
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
+
+**Prompt:**
+```
+Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
+
+He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
+
+Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
+
+Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
+
+Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
+Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 166
 
 ---
 
@@ -1159,7 +1159,7 @@ white marble staircase banister. He is wearing an oversized light blue and white
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 116
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 118
 
 ---
 
@@ -1177,7 +1177,7 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 158
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 159
 
 ---
 
@@ -1197,7 +1197,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 138
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 139
 
 ---
 
