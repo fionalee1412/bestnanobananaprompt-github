@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 801
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 802
 
 ---
 
@@ -359,7 +359,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 353
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 357
 
 ---
 
@@ -1131,7 +1131,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 166
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 167
 
 ---
 
