@@ -201,7 +201,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 605
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 610
 
 ---
 
@@ -253,7 +253,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 539
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 540
 
 ---
 
@@ -359,7 +359,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 357
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 359
 
 ---
 
@@ -1063,28 +1063,6 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
 
 ---
 
-#### Swiss alpine winter portrait of a young man
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
-
-**Prompt:**
-```
-Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
-
-He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
-
-Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
-
-Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
-
-Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
-Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 167
-
----
-
 #### Young woman with light skin tone and a fit
 
 <img src="https://cdn.bestnanobananaprompt.com/j4fkwuiah7_1769947517680.jpg" width="400" alt="Young woman with light skin tone and a fit">
@@ -1132,6 +1110,28 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 167
+
+---
+
+#### Swiss alpine winter portrait of a young man
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
+
+**Prompt:**
+```
+Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
+
+He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
+
+Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
+
+Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
+
+Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
+Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 167
 
 ---
 
