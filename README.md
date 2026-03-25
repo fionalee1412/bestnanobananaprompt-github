@@ -30,7 +30,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 “Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1284
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1285
 
 ---
 
@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 802
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 804
 
 ---
 
@@ -162,7 +162,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 892
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 894
 
 ---
 
@@ -201,7 +201,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 622
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 634
 
 ---
 
@@ -304,7 +304,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 533
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 537
 
 ---
 
@@ -359,7 +359,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 378
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 393
 
 ---
 
@@ -486,7 +486,7 @@ sd
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 337
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 338
 
 ---
 
@@ -672,7 +672,7 @@ Soft glow highlighting condensation
 Cozy, inviting, trendy bar atmosphere
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a32efb81-0b70-450b-986f-474c1a67daa2)** | Likes: 119
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a32efb81-0b70-450b-986f-474c1a67daa2)** | Likes: 120
 
 ---
 
@@ -813,7 +813,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 250
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 251
 
 ---
 
@@ -906,7 +906,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 145
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 147
 
 ---
 
@@ -1002,7 +1002,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1806ee95-cff0-44e9-aeac-d0abc0dd15a3)** | Likes: 213
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1806ee95-cff0-44e9-aeac-d0abc0dd15a3)** | Likes: 214
 
 ---
 
@@ -1063,28 +1063,6 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
 
 ---
 
-#### Swiss alpine winter portrait of a young man
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
-
-**Prompt:**
-```
-Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
-
-He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
-
-Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
-
-Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
-
-Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
-Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 167
-
----
-
 #### Young woman with light skin tone and a fit
 
 <img src="https://cdn.bestnanobananaprompt.com/j4fkwuiah7_1769947517680.jpg" width="400" alt="Young woman with light skin tone and a fit">
@@ -1131,7 +1109,29 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 167
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 168
+
+---
+
+#### Swiss alpine winter portrait of a young man
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
+
+**Prompt:**
+```
+Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
+
+He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
+
+Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
+
+Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
+
+Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
+Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 167
 
 ---
 
@@ -1159,7 +1159,7 @@ white marble staircase banister. He is wearing an oversized light blue and white
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 123
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 124
 
 ---
 
