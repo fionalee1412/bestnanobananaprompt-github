@@ -30,7 +30,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 “Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1285
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1286
 
 ---
 
@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 804
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 806
 
 ---
 
@@ -162,7 +162,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 894
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 897
 
 ---
 
@@ -201,7 +201,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 634
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 649
 
 ---
 
@@ -253,7 +253,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 540
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 541
 
 ---
 
@@ -304,20 +304,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 537
-
----
-
-#### Snow Field Aura Farm
-
-<img src="https://cdn.bestnanobananaprompt.com/78d2298u8u_1768987416641.jpg" width="400" alt="Snow Field Aura Farm">
-
-**Prompt:**
-```
-16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 398
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 540
 
 ---
 
@@ -359,7 +346,20 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 393
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 406
+
+---
+
+#### Snow Field Aura Farm
+
+<img src="https://cdn.bestnanobananaprompt.com/78d2298u8u_1768987416641.jpg" width="400" alt="Snow Field Aura Farm">
+
+**Prompt:**
+```
+16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 398
 
 ---
 
@@ -499,7 +499,7 @@ sd
 Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 322
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 323
 
 ---
 
@@ -610,7 +610,7 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 322
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 323
 
 ---
 
@@ -906,7 +906,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 147
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 148
 
 ---
 
@@ -1044,7 +1044,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 199
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 202
 
 ---
 
@@ -1159,7 +1159,7 @@ white marble staircase banister. He is wearing an oversized light blue and white
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 124
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 125
 
 ---
 
