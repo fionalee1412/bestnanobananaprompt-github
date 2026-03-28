@@ -30,7 +30,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 “Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1286
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1287
 
 ---
 
@@ -162,7 +162,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 902
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 904
 
 ---
 
@@ -188,7 +188,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 841
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 842
 
 ---
 
@@ -201,7 +201,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 662
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 676
 
 ---
 
@@ -252,7 +252,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 543
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 544
 
 ---
 
@@ -346,7 +346,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 413
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 434
 
 ---
 
@@ -359,7 +359,7 @@ sd
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 398
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 400
 
 ---
 
@@ -490,6 +490,19 @@ sd
 
 ---
 
+#### Sunlit Urban Streetwear Portrait Of A Stylish
+
+<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
+
+**Prompt:**
+```
+Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 325
+
+---
+
 #### This Penguin is Everywhere in my feed right now
 
 <img src="https://cdn.bestnanobananaprompt.com/dt0bgwpgxxs_1769389477407.jpg" width="400" alt="This Penguin is Everywhere in my feed right now">
@@ -601,19 +614,6 @@ changed background
 
 ---
 
-#### Sunlit Urban Streetwear Portrait Of A Stylish
-
-<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
-
-**Prompt:**
-```
-Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 323
-
----
-
 
 ### Minimalist
 
@@ -653,29 +653,6 @@ Style is technical yet friendly, suitable for commercial explanation and marketi
 
 ---
 
-#### Op-down And Side-angle Cinematic Close-up Of A
-
-<img src="https://cdn.bestnanobananaprompt.com/0yscc81na05m_1770132519031.jpg" width="400" alt="Op-down And Side-angle Cinematic Close-up Of A">
-
-**Prompt:**
-```
-op-down and side-angle cinematic close-up of a refreshing orange cocktail in a unique hexagonal glass jar. The glass is filled with crushed ice, vibrant mandarin segments floating, and a fresh rosemary sprig garnish. Tiny bubbles rise slowly, condensation glistens on the glass. Warm golden-orange hues of the drink with visible citrus pulp. Soft natural sunlight filters through, casting gentle highlights and shadows on a cozy wooden table surface with a warm wooden background. Minimalist, elegant composition with soft bokeh and golden hour lighting. Slow, smooth pans and subtle zoom-ins to emphasize texture, freshness, and details. Trendy cocktail bar style, photorealistic, highly detailed, appetizing, cinematic, 8k.
-Camera Movements:
-Slow top-down reveal
-Gentle side tracking along the glass
-Macro focus on ice melting and bubbles rising
-Soft tilt to show garnish and liquid depth
-Effects & Mood:
-Golden hour lighting
-Shallow depth of field
-Soft glow highlighting condensation
-Cozy, inviting, trendy bar atmosphere
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a32efb81-0b70-450b-986f-474c1a67daa2)** | Likes: 120
-
----
-
 
 ### Image Editing
 
@@ -696,7 +673,7 @@ Cozy, inviting, trendy bar atmosphere
     "camera_angle": "Eye-level shot, looking directly at the camera"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 376
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 377
 
 ---
 
@@ -906,7 +883,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 150
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 154
 
 ---
 
@@ -1044,7 +1021,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 203
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 206
 
 ---
 
@@ -1059,7 +1036,7 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 182
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 186
 
 ---
 
@@ -1109,7 +1086,7 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 169
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 172
 
 ---
 
@@ -1131,7 +1108,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 168
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 169
 
 ---
 
@@ -1159,7 +1136,7 @@ white marble staircase banister. He is wearing an oversized light blue and white
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 125
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 126
 
 ---
 
@@ -1177,7 +1154,7 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 161
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 163
 
 ---
 
@@ -1197,7 +1174,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 141
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 144
 
 ---
 
