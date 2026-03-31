@@ -162,7 +162,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 911
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 912
 
 ---
 
@@ -201,7 +201,7 @@ Output:
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 694
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 711
 
 ---
 
@@ -304,7 +304,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 543
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 544
 
 ---
 
@@ -346,7 +346,7 @@ sd
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 454
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=08e14cbe-1639-4990-b13f-b051df15c2ad)** | Likes: 468
 
 ---
 
@@ -490,6 +490,19 @@ sd
 
 ---
 
+#### Sunlit Urban Streetwear Portrait Of A Stylish
+
+<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
+
+**Prompt:**
+```
+Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 328
+
+---
+
 #### This Penguin is Everywhere in my feed right now
 
 <img src="https://cdn.bestnanobananaprompt.com/dt0bgwpgxxs_1769389477407.jpg" width="400" alt="This Penguin is Everywhere in my feed right now">
@@ -601,19 +614,6 @@ changed background
 
 ---
 
-#### Sunlit Urban Streetwear Portrait Of A Stylish
-
-<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
-
-**Prompt:**
-```
-Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 326
-
----
-
 
 ### Minimalist
 
@@ -673,7 +673,7 @@ Style is technical yet friendly, suitable for commercial explanation and marketi
     "camera_angle": "Eye-level shot, looking directly at the camera"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 379
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 381
 
 ---
 
@@ -689,7 +689,7 @@ Style is technical yet friendly, suitable for commercial explanation and marketi
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 289
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 290
 
 ---
 
@@ -790,7 +790,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 252
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 255
 
 ---
 
@@ -883,7 +883,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 156
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 158
 
 ---
 
@@ -1021,7 +1021,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 206
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 208
 
 ---
 
@@ -1086,7 +1086,7 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 173
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 174
 
 ---
 
@@ -1108,7 +1108,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 169
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 170
 
 ---
 
@@ -1136,7 +1136,7 @@ white marble staircase banister. He is wearing an oversized light blue and white
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 126
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 128
 
 ---
 
